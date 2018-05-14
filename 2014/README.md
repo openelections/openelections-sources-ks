@@ -13,10 +13,12 @@ Then, we used the `tesseract` OCR tool to convert it to text:
 % tesseract -l eng 2014-General-Election-Shawnee-County---Precinct-Level-SOVC.tiff 2014-General-Election-Shawnee-County---Precinct-Level-SOVC
 ```
 
+A similar process was followed for the "Sedwick" PDF. Note that the actual county name is "Sedgwick" with a 'g'
+but the file was misnamed from the SOS office.
+
 For the other PDF files that were created natively (not scanned), we used the `pdftotext` tool:
 
 ```bash
-% pdftotext -table 2014-General---Sedwick-County---Precinct-Level.pdf
 % pdftotext -table 2014-General---Wyandotte-County---Precinct-Level.pdf
 % pdftotext -table 2014-General---Johnson-County---Precinct-Level.pdf
 ```
