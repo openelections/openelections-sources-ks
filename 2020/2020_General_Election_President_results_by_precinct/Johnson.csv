@@ -1,0 +1,516 @@
+PRECINCT CODE,PRECINCT NAME,Biden and Harris,Jorgensen and Cohen,Trump and Pence
+1,Aubry Township Precinct 01,43,2,99
+2,Aubry Township Precinct 02,381,34,589
+3,Aubry Township Precinct 03,182,14,338
+4,Aubry Township Precinct 04,468,32,852
+5,Aubry Township Precinct 05,7,0,11
+6,Aubry Township Precinct 06,38,1,82
+7,Aubry Township Precinct 07,0,0,0
+8,Gardner Township Precinct 01,165,6,351
+9,Gardner Township Precinct 02,153,4,320
+10,Gardner Township Precinct 03,0,0,0
+11,Gardner Township Precinct 04,0,0,0
+12,Gardner Township Precinct 05,0,0,4
+13,Gardner Township Precinct 06,0,0,0
+14,Gardner Township Precinct 07,1,0,2
+15,Gardner Township Precinct 08,3,0,2
+16,Gardner Township Precinct 09,1,0,3
+17,Gardner Township Precinct 10,2,0,4
+18,Gardner Township Precinct 11,49,5,83
+19,Gardner Township Precinct 13,0,0,3
+20,Gardner Township Precinct 14,5,0,0
+21,Gardner Township Precinct 15,0,0,0
+22,Gardner Township Precinct 16,4,0,10
+23,Gardner Township Precinct 17,2,1,9
+24,Gardner Township Precinct 18,3,0,0
+25,Gardner Township Precinct 19,0,0,0
+26,Gardner Township Precinct 20,1,0,3
+27,Lexington Township Precinct 01,345,24,649
+28,Lexington Township Precinct 02,0,0,1
+29,Lexington Township Precinct 03,3,0,0
+30,Lexington Township Precinct 04,0,0,0
+31,Lexington Township Precinct 05,0,0,0
+32,McCamish Township Precinct 01,46,6,159
+33,McCamish Township Precinct 02,135,8,337
+34,McCamish Township Precinct 03,0,0,0
+35,McCamish Township Precinct 04,0,0,0
+36,McCamish Township Precinct 05,0,0,0
+37,Olathe Township Precinct 01,171,10,234
+38,Olathe Township Precinct 02,20,0,47
+39,Olathe Township Precinct 03,23,1,33
+40,Olathe Township Precinct 04,0,0,4
+41,Olathe Township Precinct 06,0,0,0
+42,Olathe Township Precinct 07,0,0,0
+43,Olathe Township Precinct 08,0,0,1
+44,Olathe Township Precinct 09,0,0,0
+45,Olathe Township Precinct 10,2,0,11
+46,Olathe Township Precinct 11,0,0,5
+47,Olathe Township Precinct 12,0,0,0
+48,Olathe Township Precinct 13,3,0,4
+49,Olathe Township Precinct 14,0,0,1
+50,Olathe Township Precinct 15,0,0,0
+51,Olathe Township Precinct 16,0,0,0
+52,Olathe Township Precinct 17,0,0,0
+53,Olathe Township Precinct 24,0,0,2
+54,Olathe Township Precinct 25,0,0,7
+55,Olathe Township Precinct 26,0,0,4
+56,Olathe Township Precinct 27,0,0,0
+57,Olathe Township Precinct 32,9,2,25
+58,Oxford Township Precinct 01,1,0,0
+59,Oxford Township Precinct 02,228,9,379
+60,Oxford Township Precinct 03,0,0,0
+61,Oxford Township Precinct 04,271,17,325
+62,Oxford Township Precinct 05,1,0,15
+63,Oxford Township Precinct 08,0,0,0
+64,Oxford Township Precinct 09,11,1,21
+65,Oxford Township Precinct 10,0,0,1
+66,Oxford Township Precinct 11,49,4,94
+67,Spring Hill Township Precinct 01,374,29,698
+68,Spring Hill Township Precinct 02,0,0,0
+69,Spring Hill Township Precinct 03,28,2,78
+70,Spring Hill Township Precinct 04,2,0,21
+71,Spring Hill Township Precinct 05,9,0,9
+72,De Soto Precinct 01,463,40,640
+73,De Soto Precinct 02,332,19,441
+74,De Soto Precinct 03,437,16,694
+75,De Soto Precinct 04,0,0,0
+76,De Soto Precinct 05,0,0,0
+77,De Soto Precinct 06,55,4,36
+78,De Soto Precinct 07,0,0,0
+79,De Soto Precinct 08,0,0,0
+80,Edgerton Precinct 01,253,26,495
+81,Edgerton Precinct 02,0,0,0
+82,Edgerton Precinct 03,0,0,0
+83,Edgerton Precinct 04,0,0,0
+84,Edgerton Precinct 05,1,0,7
+85,Edgerton Precinct 06,2,1,4
+86,Edgerton Precinct 07,0,0,0
+87,Gardner Precinct 01,644,50,993
+88,Gardner Precinct 02,140,12,130
+89,Gardner Precinct 03,480,40,662
+90,Gardner Precinct 04,341,29,579
+91,Gardner Precinct 05,0,0,0
+92,Gardner Precinct 06,550,43,827
+93,Gardner Precinct 07,16,0,10
+94,Gardner Precinct 08,98,11,204
+95,Gardner Precinct 09,652,47,923
+96,Gardner Precinct 10,419,43,627
+97,Gardner Precinct 11,0,0,0
+98,Gardner Precinct 12,2,0,11
+99,Gardner Precinct 13,421,50,571
+100,Gardner Precinct 14,325,25,409
+101,Gardner Precinct 15,0,0,0
+102,Gardner Precinct 16,0,0,0
+103,Gardner Precinct 17,0,0,0
+104,Olathe Ward 1 Precinct 01,482,27,515
+105,Olathe Ward 1 Precinct 02,327,19,305
+106,Olathe Ward 1 Precinct 03,266,11,238
+107,Olathe Ward 1 Precinct 04,525,32,473
+108,Olathe Ward 1 Precinct 05,392,27,453
+109,Olathe Ward 1 Precinct 06,302,13,272
+110,Olathe Ward 1 Precinct 07,0,0,0
+111,Olathe Ward 1 Precinct 08,839,44,744
+112,Olathe Ward 1 Precinct 09,515,21,474
+113,Olathe Ward 1 Precinct 10,0,0,0
+114,Olathe Ward 1 Precinct 11,87,4,82
+115,Olathe Ward 1 Precinct 12,0,0,0
+116,Olathe Ward 1 Precinct 13,0,0,0
+117,Olathe Ward 1 Precinct 14,410,24,400
+118,Olathe Ward 1 Precinct 15,453,15,439
+119,Olathe Ward 1 Precinct 16,600,24,682
+120,Olathe Ward 1 Precinct 17,167,12,227
+121,Olathe Ward 1 Precinct 18,380,16,390
+122,Olathe Ward 1 Precinct 19,237,12,220
+123,Olathe Ward 1 Precinct 20,313,22,313
+124,Olathe Ward 1 Precinct 21,623,29,543
+125,Olathe Ward 1 Precinct 22,1069,67,1363
+126,Olathe Ward 1 Precinct 23,0,0,0
+127,Olathe Ward 1 Precinct 24,69,2,80
+128,Olathe Ward 1 Precinct 25,102,8,124
+129,Olathe Ward 1 Precinct 26,3,0,3
+130,Olathe Ward 1 Precinct 27,305,19,308
+131,Olathe Ward 1 Precinct 28,0,0,0
+132,Olathe Ward 2 Precinct 01,223,30,223
+133,Olathe Ward 2 Precinct 02,449,11,386
+134,Olathe Ward 2 Precinct 03,349,18,386
+135,Olathe Ward 2 Precinct 04,422,21,379
+136,Olathe Ward 2 Precinct 05,799,32,1176
+137,Olathe Ward 2 Precinct 06,571,24,750
+138,Olathe Ward 2 Precinct 07,1005,51,1010
+139,Olathe Ward 2 Precinct 08,635,37,472
+140,Olathe Ward 2 Precinct 09,302,2,298
+141,Olathe Ward 2 Precinct 10,1008,52,909
+142,Olathe Ward 2 Precinct 11,871,36,698
+143,Olathe Ward 2 Precinct 12,394,23,337
+144,Olathe Ward 2 Precinct 13,412,27,342
+145,Olathe Ward 2 Precinct 14,409,7,298
+146,Olathe Ward 2 Precinct 15,487,18,530
+147,Olathe Ward 2 Precinct 16,172,6,117
+148,Olathe Ward 2 Precinct 17,0,0,0
+149,Olathe Ward 2 Precinct 18,0,0,0
+150,Olathe Ward 2 Precinct 19,3,0,8
+151,Olathe Ward 2 Precinct 20,0,0,0
+152,Olathe Ward 2 Precinct 21,0,1,0
+153,Olathe Ward 2 Precinct 22,870,34,930
+154,Olathe Ward 2 Precinct 23,580,40,484
+155,Olathe Ward 2 Precinct 24,2,0,0
+156,Olathe Ward 3 Precinct 01,281,19,211
+157,Olathe Ward 3 Precinct 02,600,23,582
+158,Olathe Ward 3 Precinct 03,258,14,323
+159,Olathe Ward 3 Precinct 04,498,28,504
+160,Olathe Ward 3 Precinct 05,435,19,597
+161,Olathe Ward 3 Precinct 06,303,11,347
+162,Olathe Ward 3 Precinct 07,342,22,322
+163,Olathe Ward 3 Precinct 08,472,24,477
+164,Olathe Ward 3 Precinct 09,255,12,282
+165,Olathe Ward 3 Precinct 10,550,33,545
+166,Olathe Ward 3 Precinct 11,424,25,354
+167,Olathe Ward 3 Precinct 12,0,0,0
+168,Olathe Ward 3 Precinct 13,555,13,483
+169,Olathe Ward 3 Precinct 14,0,0,0
+170,Olathe Ward 3 Precinct 15,411,20,461
+171,Olathe Ward 3 Precinct 16,447,19,438
+172,Olathe Ward 3 Precinct 17,605,40,640
+173,Olathe Ward 3 Precinct 18,75,2,50
+174,Olathe Ward 3 Precinct 19,341,17,369
+175,Olathe Ward 3 Precinct 20,346,17,454
+176,Olathe Ward 3 Precinct 21,695,26,1088
+177,Olathe Ward 3 Precinct 22,433,26,428
+178,Olathe Ward 3 Precinct 23,480,20,403
+179,Olathe Ward 3 Precinct 24,204,11,217
+180,Olathe Ward 3 Precinct 25,0,0,2
+181,Olathe Ward 4 Precinct 01,505,25,371
+182,Olathe Ward 4 Precinct 02,701,25,590
+183,Olathe Ward 4 Precinct 03,422,18,227
+184,Olathe Ward 4 Precinct 04,325,11,247
+185,Olathe Ward 4 Precinct 05,510,14,464
+186,Olathe Ward 4 Precinct 06,725,45,520
+187,Olathe Ward 4 Precinct 07,649,40,474
+188,Olathe Ward 4 Precinct 08,516,22,415
+189,Olathe Ward 4 Precinct 09,683,39,604
+190,Olathe Ward 4 Precinct 10,433,20,329
+191,Olathe Ward 4 Precinct 11,332,22,177
+192,Olathe Ward 4 Precinct 12,760,24,663
+193,Olathe Ward 4 Precinct 13,398,23,265
+194,Olathe Ward 4 Precinct 14,756,22,600
+195,Olathe Ward 4 Precinct 15,47,2,36
+196,Olathe Ward 4 Precinct 16,229,11,161
+197,Olathe Ward 4 Precinct 17,3,0,3
+198,Olathe Ward 4 Precinct 18,532,17,460
+199,Olathe Ward 4 Precinct 19,528,14,539
+200,Spring Hill Precinct 01,852,66,1502
+201,Spring Hill Precinct 02,0,0,0
+202,Spring Hill Precinct 03,63,0,136
+203,Spring Hill Precinct 04,0,0,2
+204,Fairway Ward 1 Precinct 01,296,10,147
+205,Fairway Ward 1 Precinct 02,225,4,88
+206,Fairway Ward 2 Precinct 01,187,6,96
+207,Fairway Ward 2 Precinct 02,214,6,103
+208,Fairway Ward 3 Precinct 01,262,8,132
+209,Fairway Ward 3 Precinct 02,240,3,127
+210,Fairway Ward 4 Precinct 01,131,4,50
+211,Fairway Ward 4 Precinct 02,150,7,52
+212,Fairway Ward 4 Precinct 03,90,3,47
+213,Fairway Ward 4 Precinct 04,134,1,51
+214,Leawood Ward 1 Precinct 01,486,17,212
+215,Leawood Ward 1 Precinct 02,623,27,441
+216,Leawood Ward 1 Precinct 03,581,13,390
+217,Leawood Ward 1 Precinct 04,508,11,308
+218,Leawood Ward 1 Precinct 05,404,13,285
+219,Leawood Ward 1 Precinct 06,137,5,73
+220,Leawood Ward 1 Precinct 07,520,17,344
+221,Leawood Ward 2 Precinct 01,431,8,355
+222,Leawood Ward 2 Precinct 02,643,21,502
+223,Leawood Ward 2 Precinct 03,548,18,432
+224,Leawood Ward 2 Precinct 04,454,13,582
+225,Leawood Ward 2 Precinct 05,348,15,275
+226,Leawood Ward 2 Precinct 06,257,5,248
+227,Leawood Ward 2 Precinct 07,335,8,212
+228,Leawood Ward 3 Precinct 01,494,17,435
+229,Leawood Ward 3 Precinct 02,582,12,398
+230,Leawood Ward 3 Precinct 03,308,4,339
+231,Leawood Ward 3 Precinct 04,224,5,131
+232,Leawood Ward 3 Precinct 05,814,26,843
+233,Leawood Ward 3 Precinct 06,737,21,822
+234,Leawood Ward 4 Precinct 01,146,4,150
+235,Leawood Ward 4 Precinct 02,370,14,419
+236,Leawood Ward 4 Precinct 03,264,7,401
+237,Leawood Ward 4 Precinct 04,527,29,463
+238,Leawood Ward 4 Precinct 05,568,12,444
+239,Leawood Ward 4 Precinct 06,353,15,461
+240,Leawood Ward 4 Precinct 07,802,23,847
+241,Lenexa Ward 1 Precinct 01,1044,61,1131
+242,Lenexa Ward 1 Precinct 02,662,17,469
+243,Lenexa Ward 1 Precinct 03,770,25,540
+244,Lenexa Ward 1 Precinct 04,587,30,364
+245,Lenexa Ward 1 Precinct 05,21,0,38
+246,Lenexa Ward 1 Precinct 06,777,30,637
+247,Lenexa Ward 1 Precinct 07,107,2,112
+248,Lenexa Ward 1 Precinct 08,444,13,278
+249,Lenexa Ward 1 Precinct 09,13,2,9
+250,Lenexa Ward 2 Precinct 01,480,14,474
+251,Lenexa Ward 2 Precinct 02,656,38,865
+252,Lenexa Ward 2 Precinct 03,630,20,734
+253,Lenexa Ward 2 Precinct 04,558,34,867
+254,Lenexa Ward 2 Precinct 05,647,29,434
+255,Lenexa Ward 2 Precinct 06,271,14,392
+256,Lenexa Ward 2 Precinct 07,688,28,671
+257,Lenexa Ward 2 Precinct 08,0,0,0
+258,Lenexa Ward 2 Precinct 09,0,0,0
+259,Lenexa Ward 2 Precinct 10,259,7,104
+260,Lenexa Ward 2 Precinct 11,297,13,266
+261,Lenexa Ward 3 Precinct 01,628,21,272
+262,Lenexa Ward 3 Precinct 02,945,26,464
+263,Lenexa Ward 3 Precinct 03,689,25,522
+264,Lenexa Ward 3 Precinct 04,388,19,376
+265,Lenexa Ward 3 Precinct 05,617,21,235
+266,Lenexa Ward 3 Precinct 06,438,25,269
+267,Lenexa Ward 3 Precinct 07,504,27,414
+268,Lenexa Ward 3 Precinct 08,497,10,410
+269,Lenexa Ward 3 Precinct 09,466,27,389
+270,Lenexa Ward 4 Precinct 01,286,14,176
+271,Lenexa Ward 4 Precinct 02,490,30,364
+272,Lenexa Ward 4 Precinct 03,447,29,225
+273,Lenexa Ward 4 Precinct 04,285,9,254
+274,Lenexa Ward 4 Precinct 05,254,12,169
+275,Lenexa Ward 4 Precinct 06,555,20,384
+276,Lenexa Ward 4 Precinct 07,445,21,297
+277,Lenexa Ward 4 Precinct 08,386,10,259
+278,Lenexa Ward 4 Precinct 09,440,22,323
+279,Lenexa Ward 4 Precinct 10,306,10,183
+280,Lenexa Ward 4 Precinct 11,83,5,41
+281,Lenexa Ward 4 Precinct 12,362,18,294
+282,Merriam Ward 1 Precinct 01,160,6,121
+283,Merriam Ward 1 Precinct 02,233,15,115
+284,Merriam Ward 1 Precinct 03,165,6,95
+285,Merriam Ward 1 Precinct 04,248,16,127
+286,Merriam Ward 2 Precinct 01,500,23,403
+287,Merriam Ward 2 Precinct 02,1,0,4
+288,Merriam Ward 2 Precinct 03,320,12,187
+289,Merriam Ward 3 Precinct 01,572,14,269
+290,Merriam Ward 3 Precinct 02,476,10,252
+291,Merriam Ward 4 Precinct 01,602,19,332
+292,Merriam Ward 4 Precinct 02,226,6,151
+293,Merriam Ward 4 Precinct 03,332,7,157
+294,Mission Ward 1 Precinct 01,329,15,157
+295,Mission Ward 1 Precinct 02,428,17,172
+296,Mission Ward 2 Precinct 01,582,26,256
+297,Mission Ward 2 Precinct 02,532,20,229
+298,Mission Ward 3 Precinct 01,663,23,239
+299,Mission Ward 3 Precinct 02,281,10,131
+300,Mission Ward 4 Precinct 01,346,1,166
+301,Mission Ward 4 Precinct 02,454,16,220
+302,Mission Ward 4 Precinct 03,323,9,140
+303,Mission Hills Precinct 01,289,10,277
+304,Mission Hills Precinct 02,445,10,302
+305,Mission Hills Precinct 03,260,6,209
+306,Mission Hills Precinct 04,455,5,332
+307,Mission Woods Precinct 01,97,1,45
+308,Overland Park Ward 1 Precinct 01,487,15,288
+309,Overland Park Ward 1 Precinct 02,661,16,270
+310,Overland Park Ward 1 Precinct 03,494,20,311
+311,Overland Park Ward 1 Precinct 04,174,9,131
+312,Overland Park Ward 1 Precinct 05,384,9,188
+313,Overland Park Ward 1 Precinct 06,589,18,330
+314,Overland Park Ward 1 Precinct 07,609,20,408
+315,Overland Park Ward 1 Precinct 08,551,32,267
+316,Overland Park Ward 1 Precinct 09,310,14,172
+317,Overland Park Ward 1 Precinct 10,597,32,422
+318,Overland Park Ward 1 Precinct 11,285,13,90
+319,Overland Park Ward 1 Precinct 12,682,22,280
+320,Overland Park Ward 1 Precinct 13,359,23,257
+321,Overland Park Ward 1 Precinct 14,556,18,303
+322,Overland Park Ward 1 Precinct 15,242,20,152
+323,Overland Park Ward 1 Precinct 16,796,30,383
+324,Overland Park Ward 1 Precinct 17,294,8,170
+325,Overland Park Ward 1 Precinct 18,477,11,245
+326,Overland Park Ward 1 Precinct 19,465,18,250
+327,Overland Park Ward 1 Precinct 20,279,11,178
+328,Overland Park Ward 1 Precinct 21,163,4,114
+329,Overland Park Ward 1 Precinct 22,145,4,71
+330,Overland Park Ward 1 Precinct 23,451,14,235
+331,Overland Park Ward 2 Precinct 01,425,18,253
+332,Overland Park Ward 2 Precinct 02,453,17,323
+333,Overland Park Ward 2 Precinct 03,420,16,229
+334,Overland Park Ward 2 Precinct 04,484,14,309
+335,Overland Park Ward 2 Precinct 05,539,22,303
+336,Overland Park Ward 2 Precinct 06,411,15,230
+337,Overland Park Ward 2 Precinct 07,319,18,235
+338,Overland Park Ward 2 Precinct 08,485,18,218
+339,Overland Park Ward 2 Precinct 09,374,20,263
+340,Overland Park Ward 2 Precinct 10,276,13,251
+341,Overland Park Ward 2 Precinct 11,404,12,267
+342,Overland Park Ward 2 Precinct 12,341,10,208
+343,Overland Park Ward 2 Precinct 13,337,14,165
+344,Overland Park Ward 2 Precinct 14,363,8,186
+345,Overland Park Ward 2 Precinct 15,567,17,366
+346,Overland Park Ward 2 Precinct 16,330,9,194
+347,Overland Park Ward 2 Precinct 17,448,24,366
+348,Overland Park Ward 2 Precinct 18,615,22,345
+349,Overland Park Ward 2 Precinct 19,365,8,211
+350,Overland Park Ward 2 Precinct 20,292,8,203
+351,Overland Park Ward 2 Precinct 21,396,6,209
+352,Overland Park Ward 2 Precinct 22,486,14,227
+353,Overland Park Ward 2 Precinct 23,397,12,277
+354,Overland Park Ward 2 Precinct 24,833,28,436
+355,Overland Park Ward 2 Precinct 25,548,13,343
+356,Overland Park Ward 2 Precinct 26,224,12,124
+357,Overland Park Ward 2 Precinct 27,557,17,350
+358,Overland Park Ward 3 Precinct 01,634,20,542
+359,Overland Park Ward 3 Precinct 02,499,19,391
+360,Overland Park Ward 3 Precinct 03,365,5,249
+361,Overland Park Ward 3 Precinct 04,494,13,336
+362,Overland Park Ward 3 Precinct 05,505,23,387
+363,Overland Park Ward 3 Precinct 06,531,19,420
+364,Overland Park Ward 3 Precinct 07,437,19,268
+365,Overland Park Ward 3 Precinct 08,385,15,322
+366,Overland Park Ward 3 Precinct 09,613,26,457
+367,Overland Park Ward 3 Precinct 10,279,12,272
+368,Overland Park Ward 3 Precinct 11,473,17,373
+369,Overland Park Ward 3 Precinct 12,429,12,193
+370,Overland Park Ward 3 Precinct 13,866,33,641
+371,Overland Park Ward 3 Precinct 14,654,23,437
+372,Overland Park Ward 3 Precinct 15,354,15,286
+373,Overland Park Ward 3 Precinct 16,442,13,284
+374,Overland Park Ward 3 Precinct 17,319,10,255
+375,Overland Park Ward 3 Precinct 18,684,28,455
+376,Overland Park Ward 3 Precinct 19,608,23,358
+377,Overland Park Ward 3 Precinct 20,544,16,396
+378,Overland Park Ward 3 Precinct 21,402,13,329
+379,Overland Park Ward 3 Precinct 22,296,16,184
+380,Overland Park Ward 3 Precinct 23,492,17,256
+381,Overland Park Ward 4 Precinct 01,509,14,418
+382,Overland Park Ward 4 Precinct 02,651,24,644
+383,Overland Park Ward 4 Precinct 03,651,25,713
+384,Overland Park Ward 4 Precinct 04,691,20,595
+385,Overland Park Ward 4 Precinct 05,558,19,441
+386,Overland Park Ward 4 Precinct 06,447,17,355
+387,Overland Park Ward 4 Precinct 07,384,13,297
+388,Overland Park Ward 4 Precinct 08,444,17,402
+389,Overland Park Ward 4 Precinct 09,343,10,468
+390,Overland Park Ward 4 Precinct 10,286,9,352
+391,Overland Park Ward 4 Precinct 11,653,15,450
+392,Overland Park Ward 4 Precinct 12,808,33,639
+393,Overland Park Ward 4 Precinct 13,430,17,487
+394,Overland Park Ward 4 Precinct 14,249,14,272
+395,Overland Park Ward 4 Precinct 15,714,20,610
+396,Overland Park Ward 4 Precinct 16,678,24,726
+397,Overland Park Ward 4 Precinct 17,718,25,607
+398,Overland Park Ward 4 Precinct 18,177,9,109
+399,Overland Park Ward 4 Precinct 19,555,21,582
+400,Overland Park Ward 5 Precinct 01,514,20,465
+401,Overland Park Ward 5 Precinct 02,89,5,77
+402,Overland Park Ward 5 Precinct 03,528,6,472
+403,Overland Park Ward 5 Precinct 04,909,35,928
+404,Overland Park Ward 5 Precinct 05,694,22,595
+405,Overland Park Ward 5 Precinct 06,524,16,395
+406,Overland Park Ward 5 Precinct 07,563,16,688
+407,Overland Park Ward 5 Precinct 08,984,29,846
+408,Overland Park Ward 5 Precinct 09,649,16,568
+409,Overland Park Ward 5 Precinct 10,588,15,463
+410,Overland Park Ward 5 Precinct 11,764,28,492
+411,Overland Park Ward 5 Precinct 12,356,8,259
+412,Overland Park Ward 5 Precinct 13,787,17,416
+413,Overland Park Ward 5 Precinct 14,603,21,403
+414,Overland Park Ward 5 Precinct 15,648,21,418
+415,Overland Park Ward 5 Precinct 16,328,5,277
+416,Overland Park Ward 5 Precinct 17,254,9,175
+417,Overland Park Ward 6 Precinct 01,552,12,495
+418,Overland Park Ward 6 Precinct 02,446,10,484
+419,Overland Park Ward 6 Precinct 03,434,16,482
+420,Overland Park Ward 6 Precinct 04,604,8,565
+421,Overland Park Ward 6 Precinct 05,681,22,583
+422,Overland Park Ward 6 Precinct 06,0,0,0
+423,Overland Park Ward 6 Precinct 07,101,9,213
+424,Overland Park Ward 6 Precinct 08,1441,44,2258
+425,Overland Park Ward 6 Precinct 09,846,19,885
+426,Overland Park Ward 6 Precinct 10,632,31,584
+427,Overland Park Ward 6 Precinct 11,911,24,1332
+428,Overland Park Ward 6 Precinct 12,245,5,200
+429,Overland Park Ward 6 Precinct 13,268,15,479
+430,Overland Park Ward 6 Precinct 14,0,0,0
+431,Overland Park Ward 6 Precinct 15,679,25,711
+432,Overland Park Ward 6 Precinct 16,363,9,327
+433,Overland Park Ward 6 Precinct 17,95,5,107
+434,Overland Park Ward 6 Precinct 18,22,1,48
+435,Overland Park Ward 6 Precinct 19,565,15,537
+436,Prairie Village Ward 1 Precinct 01,705,11,310
+437,Prairie Village Ward 1 Precinct 02,510,13,213
+438,Prairie Village Ward 1 Precinct 03,699,20,330
+439,Prairie Village Ward 2 Precinct 01,585,14,257
+440,Prairie Village Ward 2 Precinct 02,340,13,175
+441,Prairie Village Ward 2 Precinct 03,577,24,258
+442,Prairie Village Ward 3 Precinct 01,404,10,207
+443,Prairie Village Ward 3 Precinct 02,641,15,273
+444,Prairie Village Ward 3 Precinct 03,573,12,272
+445,Prairie Village Ward 4 Precinct 01,513,19,358
+446,Prairie Village Ward 4 Precinct 02,430,6,238
+447,Prairie Village Ward 4 Precinct 03,675,13,353
+448,Prairie Village Ward 5 Precinct 01,610,15,332
+449,Prairie Village Ward 5 Precinct 02,628,7,451
+450,Prairie Village Ward 5 Precinct 03,619,17,395
+451,Prairie Village Ward 6 Precinct 01,632,12,303
+452,Prairie Village Ward 6 Precinct 02,566,16,244
+453,Prairie Village Ward 6 Precinct 03,409,10,223
+454,Roeland Park Ward 1 Precinct 01,378,8,151
+455,Roeland Park Ward 1 Precinct 02,257,6,94
+456,Roeland Park Ward 2 Precinct 01,337,13,124
+457,Roeland Park Ward 2 Precinct 02,389,12,190
+458,Roeland Park Ward 3 Precinct 01,295,4,91
+459,Roeland Park Ward 3 Precinct 02,281,5,85
+460,Roeland Park Ward 3 Precinct 03,206,6,96
+461,Roeland Park Ward 4 Precinct 01,197,4,107
+462,Roeland Park Ward 4 Precinct 02,326,4,132
+463,Roeland Park Ward 4 Precinct 03,305,6,125
+464,Shawnee Ward 1 Precinct 01,521,18,452
+465,Shawnee Ward 1 Precinct 02,371,15,319
+466,Shawnee Ward 1 Precinct 03,377,26,324
+467,Shawnee Ward 1 Precinct 04,588,21,583
+468,Shawnee Ward 1 Precinct 05,751,33,608
+469,Shawnee Ward 1 Precinct 06,496,18,525
+470,Shawnee Ward 1 Precinct 07,522,21,485
+471,Shawnee Ward 1 Precinct 08,866,36,729
+472,Shawnee Ward 1 Precinct 09,139,4,67
+473,Shawnee Ward 1 Precinct 10,149,5,198
+474,Shawnee Ward 1 Precinct 11,470,22,393
+475,Shawnee Ward 1 Precinct 12,4,0,6
+476,Shawnee Ward 2 Precinct 01,273,15,238
+477,Shawnee Ward 2 Precinct 02,445,24,385
+478,Shawnee Ward 2 Precinct 03,562,29,331
+479,Shawnee Ward 2 Precinct 04,567,17,455
+480,Shawnee Ward 2 Precinct 05,271,17,244
+481,Shawnee Ward 2 Precinct 06,339,12,313
+482,Shawnee Ward 2 Precinct 07,311,23,273
+483,Shawnee Ward 2 Precinct 08,295,16,256
+484,Shawnee Ward 2 Precinct 09,299,16,233
+485,Shawnee Ward 2 Precinct 10,306,11,213
+486,Shawnee Ward 2 Precinct 11,399,15,334
+487,Shawnee Ward 2 Precinct 12,211,9,88
+488,Shawnee Ward 2 Precinct 13,234,10,158
+489,Shawnee Ward 3 Precinct 01,340,16,411
+490,Shawnee Ward 3 Precinct 02,814,30,783
+491,Shawnee Ward 3 Precinct 03,637,33,575
+492,Shawnee Ward 3 Precinct 04,528,18,597
+493,Shawnee Ward 3 Precinct 05,466,15,785
+494,Shawnee Ward 3 Precinct 06,570,37,556
+495,Shawnee Ward 3 Precinct 07,735,38,932
+496,Shawnee Ward 3 Precinct 08,521,28,576
+497,Shawnee Ward 3 Precinct 09,460,29,630
+498,Shawnee Ward 4 Precinct 01,644,30,502
+499,Shawnee Ward 4 Precinct 02,367,18,311
+500,Shawnee Ward 4 Precinct 03,189,15,144
+501,Shawnee Ward 4 Precinct 04,399,13,168
+502,Shawnee Ward 4 Precinct 05,580,12,442
+503,Shawnee Ward 4 Precinct 06,463,22,389
+504,Shawnee Ward 4 Precinct 07,660,24,508
+505,Shawnee Ward 4 Precinct 08,228,13,175
+506,Shawnee Ward 4 Precinct 09,823,28,892
+507,Shawnee Ward 4 Precinct 10,0,0,0
+508,Shawnee Ward 4 Precinct 11,494,18,330
+509,Shawnee Ward 4 Precinct 12,66,0,43
+510,Westwood Precinct 01,449,8,161
+511,Westwood Precinct 02,374,14,116
+512,Westwood Hills Precinct 01,201,6,70
+513,Lake Quivira Precinct 01,329,13,413
+514,Bonner Springs Ward 4 Precinct 01,0,0,0
+ZZZ,COUNTY TOTALS,184259,7324,155631
