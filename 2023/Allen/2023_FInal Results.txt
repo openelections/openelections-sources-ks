@@ -1,0 +1,294 @@
+E&l2a1o6c059F(s0p16.66h3b6T&a00L
+SUMMARY REPT-GROUP DETAIL                                                                                                           REPORT-EL45A     PAGE 001
+RUN DATE:11/15/23 09:08 AM
+
+                                       TOTAL VOTES     %        ADV           EDS           HDCT          WED           THS           FRI           PROV
+
+ PRECINCTS COUNTED (OF 21) .  .  .  .  .         21  100.00
+ REGISTERED VOTERS - TOTAL .  .  .  .  .      8,698
+ BALLOTS CAST - TOTAL.  .  .  .  .  .  .      2,534                   457         2,053             1             7             4             0            12
+ BALLOTS CAST - BLANK.  .  .  .  .  .  .          0                     0             0             0             0             0             0             0
+ VOTER TURNOUT - TOTAL  .  .  .  .  .  .              29.13
+ VOTER TURNOUT - BLANK  .  .  .  .  .  .
+
+Board of Trustees
+(VOTE FOR)  3
+ Gena Clounch  .  .  .  .  .  .  .  .  .      1,795   28.92           345         1,436             1             5             2             0             6
+ Alana Cloutier.  .  .  .  .  .  .  .  .        995   16.03           173           813             1             2             3             0             3
+ Vicki Curry.  .  .  .  .  .  .  .  .  .      1,943   31.31           337         1,588             1             5             4             0             8
+ Corey Wade Schinstock  .  .  .  .  .  .      1,243   20.03           231         1,000             0             6             1             0             5
+ WRITE-IN.  .  .  .  .  .  .  .  .  .  .        230    3.71            39           187             0             0             0             0             4
+
+
+Mayor City of Bassett
+(VOTE FOR)  1
+ Larry Wayne Crawford.  .  .  .  .  .  .          8  100.00             0             8             0             0             0             0             0
+ WRITE-IN.  .  .  .  .  .  .  .  .  .  .          0                     0             0             0             0             0             0             0
+
+
+Mayor City of Elsmore
+(VOTE FOR)  1
+ WRITE-IN.  .  .  .  .  .  .  .  .  .  .         12  100.00             5             6             0             0             0             0             1
+
+
+Mayor City of Humboldt, Wd 1
+(VOTE FOR)  1
+ Nobby Davis.  .  .  .  .  .  .  .  .  .        155   93.37            15           140             0             0             0             0             0
+ WRITE-IN.  .  .  .  .  .  .  .  .  .  .         11    6.63             2             9             0             0             0             0             0
+
+
+Mayor City of Humboldt, Wd 2
+(VOTE FOR)  1
+ Nobby Davis.  .  .  .  .  .  .  .  .  .        169   91.35            15           150             0             0             1             0             3
+ WRITE-IN.  .  .  .  .  .  .  .  .  .  .         16    8.65             3            13             0             0             0             0             0
+
+
+Mayor City of Iola, Ward 1
+(VOTE FOR)  1
+ Steven C. French .  .  .  .  .  .  .  .        160   96.97            44           116             0             0             0             0             0
+ WRITE-IN.  .  .  .  .  .  .  .  .  .  .          5    3.03             1             4             0             0             0             0             0
+
+
+Mayor City of Iola, Ward 2
+(VOTE FOR)  1
+ Steven C. French .  .  .  .  .  .  .  .        252   96.92            84           164             0             2             2             0             0
+ WRITE-IN.  .  .  .  .  .  .  .  .  .  .          8    3.08             3             5             0             0             0             0             0SUMMARY REPT-GROUP DETAIL                                                                                                           REPORT-EL45A     PAGE 002
+RUN DATE:11/15/23 09:08 AM
+
+                                       TOTAL VOTES     %        ADV           EDS           HDCT          WED           THS           FRI           PROV
+
+Mayor City of Iola, Ward 3
+(VOTE FOR)  1
+ Steven C. French .  .  .  .  .  .  .  .        164   94.25            32           132             0             0             0             0             0
+ WRITE-IN.  .  .  .  .  .  .  .  .  .  .         10    5.75             1             9             0             0             0             0             0
+
+
+Mayor City of Iola, Ward 4
+(VOTE FOR)  1
+ Steven C. French .  .  .  .  .  .  .  .        176   96.17            44           130             0             0             0             0             2
+ WRITE-IN.  .  .  .  .  .  .  .  .  .  .          7    3.83             1             6             0             0             0             0             0
+
+
+Mayor City of LaHarpe
+(VOTE FOR)  1
+ EllaMae Crowell  .  .  .  .  .  .  .  .         41   51.90             4            35             0             2             0             0             0
+ WRITE-IN.  .  .  .  .  .  .  .  .  .  .         38   48.10             2            35             0             0             0             0             1
+
+
+Mayor City of Moran
+(VOTE FOR)  1
+ Jerry D. Wallis  .  .  .  .  .  .  .  .         88   94.62             6            81             0             0             0             0             1
+ WRITE-IN.  .  .  .  .  .  .  .  .  .  .          5    5.38             0             5             0             0             0             0             0
+
+
+Mayor City of Savonburg
+(VOTE FOR)  1
+ WRITE-IN.  .  .  .  .  .  .  .  .  .  .         24  100.00             1            22             1             0             0             0             0
+
+
+Council Member City of Bassett
+(VOTE FOR)  5
+ Olivia E. Alexander .  .  .  .  .  .  .          4   16.00             0             4             0             0             0             0             0
+ Carol L. Crawford.  .  .  .  .  .  .  .          8   32.00             0             8             0             0             0             0             0
+ Sheryl L. Ratcliff-Valentine .  .  .  .          6   24.00             0             6             0             0             0             0             0
+ WRITE-IN.  .  .  .  .  .  .  .  .  .  .          7   28.00             0             7             0             0             0             0             0
+
+
+Council Member City of Elsmore
+(VOTE FOR)  5
+ WRITE-IN.  .  .  .  .  .  .  .  .  .  .         60  100.00            25            32             0             0             0             0             3
+
+
+Council Member City of Savonburg
+(VOTE FOR)  5
+ Glen L. Wolfe .  .  .  .  .  .  .  .  .         18   18.37             0            17             1             0             0             0             0
+ WRITE-IN.  .  .  .  .  .  .  .  .  .  .         80   81.63             0            76             4             0             0             0             0SUMMARY REPT-GROUP DETAIL                                                                                                           REPORT-EL45A     PAGE 003
+RUN DATE:11/15/23 09:08 AM
+
+                                       TOTAL VOTES     %        ADV           EDS           HDCT          WED           THS           FRI           PROV
+
+Council Member City of Gas
+(VOTE FOR)  3
+ George Grisier.  .  .  .  .  .  .  .  .         85   44.04             6            79             0             0             0             0             0
+ Harry D. Holloway.  .  .  .  .  .  .  .         89   46.11             6            83             0             0             0             0             0
+ WRITE-IN.  .  .  .  .  .  .  .  .  .  .         19    9.84             1            18             0             0             0             0             0
+
+
+Council Member City of Humboldt, Wd 1
+(VOTE FOR)  1
+ Paul Cloutier .  .  .  .  .  .  .  .  .        139   92.67            11           128             0             0             0             0             0
+ WRITE-IN.  .  .  .  .  .  .  .  .  .  .         11    7.33             1            10             0             0             0             0             0
+
+
+Council Member City of Humboldt, Wd 2
+(VOTE FOR)  1
+ Otis C. Crawford .  .  .  .  .  .  .  .        185   97.37            19           161             0             0             1             0             4
+ WRITE-IN.  .  .  .  .  .  .  .  .  .  .          5    2.63             0             5             0             0             0             0             0
+
+
+Council Member City of Humboldt, Wd 1
+(VOTE FOR)  1
+ WRITE-IN.  .  .  .  .  .  .  .  .  .  .         49  100.00             3            46             0             0             0             0             0
+
+
+Council Member City of Humboldt, Wd 2
+(VOTE FOR)  1
+ Sunny G. Shreeve .  .  .  .  .  .  .  .        163   93.68            19           140             0             0             1             0             3
+ WRITE-IN.  .  .  .  .  .  .  .  .  .  .         11    6.32             1            10             0             0             0             0             0
+
+
+Council Member City of Iola, Ward 1
+(VOTE FOR)  1
+ Paul J. Porter.  .  .  .  .  .  .  .  .         59   34.10            16            43             0             0             0             0             0
+ Jon Wells  .  .  .  .  .  .  .  .  .  .        112   64.74            28            83             0             1             0             0             0
+ WRITE-IN.  .  .  .  .  .  .  .  .  .  .          2    1.16             1             1             0             0             0             0             0
+
+
+Council Member City of Iola, Ward 2
+(VOTE FOR)  1
+ Max Grundy .  .  .  .  .  .  .  .  .  .        236   95.93            79           153             0             2             2             0             0
+ WRITE-IN.  .  .  .  .  .  .  .  .  .  .         10    4.07             3             7             0             0             0             0             0
+
+
+Council Member City of Iola, Ward 3
+(VOTE FOR)  1
+ Georgia Masterson.  .  .  .  .  .  .  .         70   37.63            11            59             0             0             0             0             0
+ Eugene "Gene" Myrick.  .  .  .  .  .  .         31   16.67             3            28             0             0             0             0             0
+ Kim Peterson  .  .  .  .  .  .  .  .  .         84   45.16            20            64             0             0             0             0             0
+ WRITE-IN.  .  .  .  .  .  .  .  .  .  .          1     .54             0             1             0             0             0             0             0SUMMARY REPT-GROUP DETAIL                                                                                                           REPORT-EL45A     PAGE 004
+RUN DATE:11/15/23 09:08 AM
+
+                                       TOTAL VOTES     %        ADV           EDS           HDCT          WED           THS           FRI           PROV
+
+Council Member City of Iola, Ward 4
+(VOTE FOR)  1
+ Darcus Kottwitz  .  .  .  .  .  .  .  .         79   41.80            22            57             0             0             0             0             0
+ Joelle Shallah.  .  .  .  .  .  .  .  .        109   57.67            25            82             0             0             0             0             2
+ WRITE-IN.  .  .  .  .  .  .  .  .  .  .          1     .53             0             1             0             0             0             0             0
+
+
+Council Member City of LaHarpe
+(VOTE FOR)  2
+ Angela Barker .  .  .  .  .  .  .  .  .         38   23.60             3            33             0             2             0             0             0
+ Austin Lee .  .  .  .  .  .  .  .  .  .         55   34.16             3            50             0             2             0             0             0
+ Danny Ware Jr..  .  .  .  .  .  .  .  .         45   27.95             5            39             0             0             0             0             1
+ WRITE-IN.  .  .  .  .  .  .  .  .  .  .         23   14.29             3            19             0             0             0             0             1
+
+
+Council Member City of Moran
+(VOTE FOR)  2
+ Rachel Blevins.  .  .  .  .  .  .  .  .         29   16.38             1            28             0             0             0             0             0
+ Darcy Burton  .  .  .  .  .  .  .  .  .         41   23.16             5            36             0             0             0             0             0
+ Jim Mueller.  .  .  .  .  .  .  .  .  .         53   29.94             5            47             0             0             0             0             1
+ Lee Roberts.  .  .  .  .  .  .  .  .  .         41   23.16             3            37             0             0             0             0             1
+ Joe Stotler.  .  .  .  .  .  .  .  .  .         13    7.34             1            12             0             0             0             0             0
+ WRITE-IN.  .  .  .  .  .  .  .  .  .  .          0                     0             0             0             0             0             0             0
+
+
+USD USD 256
+(VOTE FOR)  5
+ Taeler N. Carr.  .  .  .  .  .  .  .  .        213   14.93            18           192             1             1             0             0             1
+ Kent N. LaRue .  .  .  .  .  .  .  .  .        288   20.18            23           261             1             1             0             0             2
+ Kenneth McVey .  .  .  .  .  .  .  .  .        295   20.67            19           272             1             1             0             0             2
+ Ken McWhirter .  .  .  .  .  .  .  .  .        289   20.25            28           257             1             1             0             0             2
+ Kris Smith .  .  .  .  .  .  .  .  .  .        267   18.71            18           246             1             1             0             0             1
+ WRITE-IN.  .  .  .  .  .  .  .  .  .  .         75    5.26             4            70             0             0             0             0             1
+
+
+USD USD 257
+(VOTE FOR)  4
+ Doug Dunlap.  .  .  .  .  .  .  .  .  .      1,128   23.65           263           854             0             5             2             0             4
+ Tony Leavitt  .  .  .  .  .  .  .  .  .      1,223   25.64           284           930             0             4             2             0             3
+ Jen Taylor .  .  .  .  .  .  .  .  .  .      1,184   24.83           278           894             0             6             2             0             4
+ Daniel Willis .  .  .  .  .  .  .  .  .      1,172   24.58           275           889             0             3             2             0             3
+ WRITE-IN.  .  .  .  .  .  .  .  .  .  .         62    1.30             5            57             0             0             0             0             0SUMMARY REPT-GROUP DETAIL                                                                                                           REPORT-EL45A     PAGE 005
+RUN DATE:11/15/23 09:08 AM
+
+                                       TOTAL VOTES     %        ADV           EDS           HDCT          WED           THS           FRI           PROV
+
+USD USD 258
+(VOTE FOR)  4
+ Chelsie Angleton .  .  .  .  .  .  .  .        147    6.61            12           132             0             0             0             0             3
+ Josh Hart  .  .  .  .  .  .  .  .  .  .        151    6.79            12           136             0             0             0             0             3
+ Kevin Heisler .  .  .  .  .  .  .  .  .        148    6.65            20           128             0             0             0             0             0
+ Cindy Jaro .  .  .  .  .  .  .  .  .  .        250   11.24            22           226             0             0             0             0             2
+ Andrea Newman .  .  .  .  .  .  .  .  .        308   13.85            25           281             0             0             1             0             1
+ Hiram Raby .  .  .  .  .  .  .  .  .  .         98    4.41             6            92             0             0             0             0             0
+ Drake Tilman  .  .  .  .  .  .  .  .  .        302   13.58            25           275             0             0             0             0             2
+ Sandra Whitaker  .  .  .  .  .  .  .  .        278   12.50            25           250             0             0             1             0             2
+ Anthony Works .  .  .  .  .  .  .  .  .        221    9.94            28           191             0             0             1             0             1
+ Josh Wrestler .  .  .  .  .  .  .  .  .        316   14.21            21           292             0             0             1             0             2
+ WRITE-IN.  .  .  .  .  .  .  .  .  .  .          5     .22             0             5             0             0             0             0             0
+
+
+USD USD 413
+(VOTE FOR)  4
+ Cassie Cleaver.  .  .  .  .  .  .  .  .          4    9.52             0             4             0             0             0             0             0
+ Bob Cross  .  .  .  .  .  .  .  .  .  .          5   11.90             1             3             0             0             1             0             0
+ Brianna M. Leroy .  .  .  .  .  .  .  .          3    7.14             0             3             0             0             0             0             0
+ Bruce W. Lee  .  .  .  .  .  .  .  .  .          7   16.67             1             6             0             0             0             0             0
+ Derek Waggoner.  .  .  .  .  .  .  .  .          6   14.29             1             5             0             0             0             0             0
+ Samuel Smeed  .  .  .  .  .  .  .  .  .          1    2.38             0             1             0             0             0             0             0
+ Owen Higgins  .  .  .  .  .  .  .  .  .          5   11.90             0             5             0             0             0             0             0
+ Bradley LaRue .  .  .  .  .  .  .  .  .          6   14.29             1             5             0             0             0             0             0
+ Cody Howell.  .  .  .  .  .  .  .  .  .          5   11.90             0             5             0             0             0             0             0
+ WRITE-IN.  .  .  .  .  .  .  .  .  .  .          0                     0             0             0             0             0             0             0
+
+
+USD USD 257
+(VOTE FOR)  1
+ John A. Masterson.  .  .  .  .  .  .  .      1,305   97.46           308           985             0             6             2             0             4
+ WRITE-IN.  .  .  .  .  .  .  .  .  .  .         34    2.54             7            27             0             0             0             0             0
+
+
+USD USD 413
+(VOTE FOR)  1
+ Landon J. Wolken .  .  .  .  .  .  .  .          7   63.64             1             6             0             0             0             0             0
+ WRITE-IN.  .  .  .  .  .  .  .  .  .  .          4   36.36             0             4             0             0             0             0             0
+
+
+USD 479, Position #1 USD 479
+(VOTE FOR)  1
+ Jamie L. Henderson  .  .  .  .  .  .  .          9   47.37             3             6             0             0             0             0             0
+ L. Jason Beckmon .  .  .  .  .  .  .  .         10   52.63             6             4             0             0             0             0             0
+ WRITE-IN.  .  .  .  .  .  .  .  .  .  .          0                     0             0             0             0             0             0             0SUMMARY REPT-GROUP DETAIL                                                                                                           REPORT-EL45A     PAGE 006
+RUN DATE:11/15/23 09:08 AM
+
+                                       TOTAL VOTES     %        ADV           EDS           HDCT          WED           THS           FRI           PROV
+
+USD 479, Position #2 USD 479
+(VOTE FOR)  1
+ Kevin Nilges  .  .  .  .  .  .  .  .  .         19  100.00             9            10             0             0             0             0             0
+ WRITE-IN.  .  .  .  .  .  .  .  .  .  .          0                     0             0             0             0             0             0             0
+
+
+USD 479, Position #3 USD 479
+(VOTE FOR)  1
+ Laura Schmidt .  .  .  .  .  .  .  .  .         18  100.00             8            10             0             0             0             0             0
+ WRITE-IN.  .  .  .  .  .  .  .  .  .  .          0                     0             0             0             0             0             0             0
+
+
+USD 479, Position #7 USD 479
+(VOTE FOR)  1
+ Nathan Beckmon.  .  .  .  .  .  .  .  .         15  100.00             5            10             0             0             0             0             0
+ WRITE-IN.  .  .  .  .  .  .  .  .  .  .          0                     0             0             0             0             0             0             0
+
+
+Southwind Extension District
+(VOTE FOR)  2
+ Darrell R. Monfort  .  .  .  .  .  .  .      2,071   52.48           378         1,679             1             3             3             0             7
+ Jill Wilks .  .  .  .  .  .  .  .  .  .      1,849   46.86           325         1,505             1             4             3             0            11
+ WRITE-IN.  .  .  .  .  .  .  .  .  .  .         26     .66             1            25             0             0             0             0             0
+
+
+Allen County Bond Question
+(VOTE FOR)  1
+ Yes  .  .  .  .  .  .  .  .  .  .  .  .        609   24.17           138           461             1             4             2             0             3
+ No.  .  .  .  .  .  .  .  .  .  .  .  .      1,911   75.83           317         1,580             0             3             2             0             9
+
+
+USD 479 Bond Question USD 479
+(VOTE FOR)  1
+ Yes  .  .  .  .  .  .  .  .  .  .  .  .         12   60.00             5             7             0             0             0             0             0
+ No.  .  .  .  .  .  .  .  .  .  .  .  .          8   40.00             4             4             0             0             0             0             0
+E
