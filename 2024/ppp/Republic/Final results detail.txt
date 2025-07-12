@@ -1,0 +1,965 @@
+Final Results
+PREC REPORT-GROUP DETAIL                           Official Results                      Report EL30A 
+                                                   STATISTICS
+Run Date:03/29/24 02:57 PM
+
+0001 1st Ward
+                                        TOTAL VOTES     %       Election      Advance       Prov
+
+ REGISTERED VOTERS - TOTAL .  .  .  .  .  .     385
+ REGISTERED VOTERS - Democratic  .  .  .  .      67    17.40
+ REGISTERED VOTERS - Republican  .  .  .  .     318    82.60
+ BALLOTS CAST - TOTAL.  .  .  .  .  .  .  .      27                     10            17             0
+ BALLOTS CAST - Democratic .  .  .  .  .  .       4    14.81             2             2             0
+ BALLOTS CAST - Republican .  .  .  .  .  .      23    85.19             8            15             0
+ BALLOTS CAST - NONPARTISAN.  .  .  .  .  .       0                      0             0             0
+ BALLOTS CAST - BLANK.  .  .  .  .  .  .  .       0                      0             0             0
+ BALLOTS CAST - STYLE 00001 (DEM).  .  .  .       4    14.81             2             2             0
+ BALLOTS CAST - STYLE 00002 (REP).  .  .  .      23    85.19             8            15             0
+ VOTER TURNOUT - TOTAL  .  .  .  .  .  .  .             7.01
+ VOTER TURNOUT - Democratic.  .  .  .  .  .             5.97
+ VOTER TURNOUT - Republican.  .  .  .  .  .             7.23
+ VOTER TURNOUT - BLANK  .  .  .  .  .  .  .
+ VOTER TURNOUT - STYLE 00001 (DEM)  .  .  .             5.97
+ VOTER TURNOUT - STYLE 00002 (REP)  .  .  .             7.23
+
+0001 1st Ward
+                                        TOTAL VOTES     %       Election      Advance       Prov
+
+US President
+(VOTE FOR)  1
+ Marianne Williamson .  .  .  .  .  .  .  .       1    25.00             1             0             0
+ Jason Michael Palmer.  .  .  .  .  .  .  .       0                      0             0             0
+ Dean Phillips .  .  .  .  .  .  .  .  .  .       0                      0             0             0
+ Joseph R Biden Jr.  .  .  .  .  .  .  .  .       2    50.00             1             1             0
+ None of the names shown.  .  .  .  .  .  .       1    25.00             0             1             0
+
+0001 1st Ward
+                                        TOTAL VOTES     %       Election      Advance       Prov
+
+US President
+(VOTE FOR)  1
+ Donald J. Trump  .  .  .  .  .  .  .  .  .      13    56.52             5             8             0
+ Nikki R. Haley.  .  .  .  .  .  .  .  .  .       5    21.74             2             3             0
+ Ron Desantis  .  .  .  .  .  .  .  .  .  .       4    17.39             1             3             0
+ Ryan L. Binkley  .  .  .  .  .  .  .  .  .       0                      0             0             0
+ None of the names shown.  .  .  .  .  .  .       1     4.35             0             1             0
+
+0002 2nd Ward
+                                        TOTAL VOTES     %       Election      Advance       Prov
+
+ REGISTERED VOTERS - TOTAL .  .  .  .  .  .     381
+ REGISTERED VOTERS - Democratic  .  .  .  .      66    17.32
+ REGISTERED VOTERS - Republican  .  .  .  .     315    82.68
+ BALLOTS CAST - TOTAL.  .  .  .  .  .  .  .      44                     11            33             0
+ BALLOTS CAST - Democratic .  .  .  .  .  .       4     9.09             1             3             0
+ BALLOTS CAST - Republican .  .  .  .  .  .      40    90.91            10            30             0
+ BALLOTS CAST - NONPARTISAN.  .  .  .  .  .       0                      0             0             0
+ BALLOTS CAST - BLANK.  .  .  .  .  .  .  .       0                      0             0             0
+ BALLOTS CAST - STYLE 00001 (DEM).  .  .  .       4     9.09             1             3             0
+ BALLOTS CAST - STYLE 00002 (REP).  .  .  .      40    90.91            10            30             0
+ VOTER TURNOUT - TOTAL  .  .  .  .  .  .  .            11.55
+ VOTER TURNOUT - Democratic.  .  .  .  .  .             6.06
+ VOTER TURNOUT - Republican.  .  .  .  .  .            12.70
+ VOTER TURNOUT - BLANK  .  .  .  .  .  .  .
+ VOTER TURNOUT - STYLE 00001 (DEM)  .  .  .             6.06
+ VOTER TURNOUT - STYLE 00002 (REP)  .  .  .            12.70
+
+0002 2nd Ward
+                                        TOTAL VOTES     %       Election      Advance       Prov
+
+US President
+(VOTE FOR)  1
+ Marianne Williamson .  .  .  .  .  .  .  .       0                      0             0             0
+ Jason Michael Palmer.  .  .  .  .  .  .  .       0                      0             0             0
+ Dean Phillips .  .  .  .  .  .  .  .  .  .       0                      0             0             0
+ Joseph R Biden Jr.  .  .  .  .  .  .  .  .       4   100.00             1             3             0
+ None of the names shown.  .  .  .  .  .  .       0                      0             0             0
+
+0002 2nd Ward
+                                        TOTAL VOTES     %       Election      Advance       Prov
+
+US President
+(VOTE FOR)  1
+ Donald J. Trump  .  .  .  .  .  .  .  .  .      38    95.00             8            30             0
+ Nikki R. Haley.  .  .  .  .  .  .  .  .  .       2     5.00             2             0             0
+ Ron Desantis  .  .  .  .  .  .  .  .  .  .       0                      0             0             0
+ Ryan L. Binkley  .  .  .  .  .  .  .  .  .       0                      0             0             0
+ None of the names shown.  .  .  .  .  .  .       0                      0             0             0
+
+0003 3rd Ward
+                                        TOTAL VOTES     %       Election      Advance       Prov
+
+ REGISTERED VOTERS - TOTAL .  .  .  .  .  .     280
+ REGISTERED VOTERS - Democratic  .  .  .  .      36    12.86
+ REGISTERED VOTERS - Republican  .  .  .  .     244    87.14
+ BALLOTS CAST - TOTAL.  .  .  .  .  .  .  .      23                      6            17             0
+ BALLOTS CAST - Democratic .  .  .  .  .  .       2     8.70             2             0             0
+ BALLOTS CAST - Republican .  .  .  .  .  .      21    91.30             4            17             0
+ BALLOTS CAST - NONPARTISAN.  .  .  .  .  .       0                      0             0             0
+ BALLOTS CAST - BLANK.  .  .  .  .  .  .  .       0                      0             0             0
+ BALLOTS CAST - STYLE 00001 (DEM).  .  .  .       2     8.70             2             0             0
+ BALLOTS CAST - STYLE 00002 (REP).  .  .  .      21    91.30             4            17             0
+ VOTER TURNOUT - TOTAL  .  .  .  .  .  .  .             8.21
+ VOTER TURNOUT - Democratic.  .  .  .  .  .             5.56
+ VOTER TURNOUT - Republican.  .  .  .  .  .             8.61
+ VOTER TURNOUT - BLANK  .  .  .  .  .  .  .
+ VOTER TURNOUT - STYLE 00001 (DEM)  .  .  .             5.56
+ VOTER TURNOUT - STYLE 00002 (REP)  .  .  .             8.61
+
+0003 3rd Ward
+                                        TOTAL VOTES     %       Election      Advance       Prov
+
+US President
+(VOTE FOR)  1
+ Marianne Williamson .  .  .  .  .  .  .  .       0                      0             0             0
+ Jason Michael Palmer.  .  .  .  .  .  .  .       0                      0             0             0
+ Dean Phillips .  .  .  .  .  .  .  .  .  .       0                      0             0             0
+ Joseph R Biden Jr.  .  .  .  .  .  .  .  .       2   100.00             2             0             0
+ None of the names shown.  .  .  .  .  .  .       0                      0             0             0
+
+0003 3rd Ward
+                                        TOTAL VOTES     %       Election      Advance       Prov
+
+US President
+(VOTE FOR)  1
+ Donald J. Trump  .  .  .  .  .  .  .  .  .      18    85.71             4            14             0
+ Nikki R. Haley.  .  .  .  .  .  .  .  .  .       2     9.52             0             2             0
+ Ron Desantis  .  .  .  .  .  .  .  .  .  .       0                      0             0             0
+ Ryan L. Binkley  .  .  .  .  .  .  .  .  .       0                      0             0             0
+ None of the names shown.  .  .  .  .  .  .       1     4.76             0             1             0
+
+0004 Albion
+                                        TOTAL VOTES     %       Election      Advance       Prov
+
+ REGISTERED VOTERS - TOTAL .  .  .  .  .  .      78
+ REGISTERED VOTERS - Democratic  .  .  .  .      15    19.23
+ REGISTERED VOTERS - Republican  .  .  .  .      63    80.77
+ BALLOTS CAST - TOTAL.  .  .  .  .  .  .  .       5                      3             2             0
+ BALLOTS CAST - Democratic .  .  .  .  .  .       1    20.00             0             1             0
+ BALLOTS CAST - Republican .  .  .  .  .  .       4    80.00             3             1             0
+ BALLOTS CAST - NONPARTISAN.  .  .  .  .  .       0                      0             0             0
+ BALLOTS CAST - BLANK.  .  .  .  .  .  .  .       0                      0             0             0
+ BALLOTS CAST - STYLE 00001 (DEM).  .  .  .       1    20.00             0             1             0
+ BALLOTS CAST - STYLE 00002 (REP).  .  .  .       4    80.00             3             1             0
+ VOTER TURNOUT - TOTAL  .  .  .  .  .  .  .             6.41
+ VOTER TURNOUT - Democratic.  .  .  .  .  .             6.67
+ VOTER TURNOUT - Republican.  .  .  .  .  .             6.35
+ VOTER TURNOUT - BLANK  .  .  .  .  .  .  .
+ VOTER TURNOUT - STYLE 00001 (DEM)  .  .  .             6.67
+ VOTER TURNOUT - STYLE 00002 (REP)  .  .  .             6.35
+
+0004 Albion
+                                        TOTAL VOTES     %       Election      Advance       Prov
+
+US President
+(VOTE FOR)  1
+ Marianne Williamson .  .  .  .  .  .  .  .       0                      0             0             0
+ Jason Michael Palmer.  .  .  .  .  .  .  .       0                      0             0             0
+ Dean Phillips .  .  .  .  .  .  .  .  .  .       0                      0             0             0
+ Joseph R Biden Jr.  .  .  .  .  .  .  .  .       1   100.00             0             1             0
+ None of the names shown.  .  .  .  .  .  .       0                      0             0             0
+
+0004 Albion
+                                        TOTAL VOTES     %       Election      Advance       Prov
+
+US President
+(VOTE FOR)  1
+ Donald J. Trump  .  .  .  .  .  .  .  .  .       4   100.00             3             1             0
+ Nikki R. Haley.  .  .  .  .  .  .  .  .  .       0                      0             0             0
+ Ron Desantis  .  .  .  .  .  .  .  .  .  .       0                      0             0             0
+ Ryan L. Binkley  .  .  .  .  .  .  .  .  .       0                      0             0             0
+ None of the names shown.  .  .  .  .  .  .       0                      0             0             0
+
+0005 Beaver
+                                        TOTAL VOTES     %       Election      Advance       Prov
+
+ REGISTERED VOTERS - TOTAL .  .  .  .  .  .      56
+ REGISTERED VOTERS - Democratic  .  .  .  .       3     5.36
+ REGISTERED VOTERS - Republican  .  .  .  .      53    94.64
+ BALLOTS CAST - TOTAL.  .  .  .  .  .  .  .       7                      0             7             0
+ BALLOTS CAST - Democratic .  .  .  .  .  .       1    14.29             0             1             0
+ BALLOTS CAST - Republican .  .  .  .  .  .       6    85.71             0             6             0
+ BALLOTS CAST - NONPARTISAN.  .  .  .  .  .       0                      0             0             0
+ BALLOTS CAST - BLANK.  .  .  .  .  .  .  .       0                      0             0             0
+ BALLOTS CAST - STYLE 00001 (DEM).  .  .  .       1    14.29             0             1             0
+ BALLOTS CAST - STYLE 00002 (REP).  .  .  .       6    85.71             0             6             0
+ VOTER TURNOUT - TOTAL  .  .  .  .  .  .  .            12.50
+ VOTER TURNOUT - Democratic.  .  .  .  .  .            33.33
+ VOTER TURNOUT - Republican.  .  .  .  .  .            11.32
+ VOTER TURNOUT - BLANK  .  .  .  .  .  .  .
+ VOTER TURNOUT - STYLE 00001 (DEM)  .  .  .            33.33
+ VOTER TURNOUT - STYLE 00002 (REP)  .  .  .            11.32
+
+0005 Beaver
+                                        TOTAL VOTES     %       Election      Advance       Prov
+
+US President
+(VOTE FOR)  1
+ Marianne Williamson .  .  .  .  .  .  .  .       0                      0             0             0
+ Jason Michael Palmer.  .  .  .  .  .  .  .       0                      0             0             0
+ Dean Phillips .  .  .  .  .  .  .  .  .  .       0                      0             0             0
+ Joseph R Biden Jr.  .  .  .  .  .  .  .  .       1   100.00             0             1             0
+ None of the names shown.  .  .  .  .  .  .       0                      0             0             0
+
+0005 Beaver
+                                        TOTAL VOTES     %       Election      Advance       Prov
+
+US President
+(VOTE FOR)  1
+ Donald J. Trump  .  .  .  .  .  .  .  .  .       6   100.00             0             6             0
+ Nikki R. Haley.  .  .  .  .  .  .  .  .  .       0                      0             0             0
+ Ron Desantis  .  .  .  .  .  .  .  .  .  .       0                      0             0             0
+ Ryan L. Binkley  .  .  .  .  .  .  .  .  .       0                      0             0             0
+ None of the names shown.  .  .  .  .  .  .       0                      0             0             0
+
+0006 Belleville
+                                        TOTAL VOTES     %       Election      Advance       Prov
+
+ REGISTERED VOTERS - TOTAL .  .  .  .  .  .     139
+ REGISTERED VOTERS - Democratic  .  .  .  .      13     9.35
+ REGISTERED VOTERS - Republican  .  .  .  .     126    90.65
+ BALLOTS CAST - TOTAL.  .  .  .  .  .  .  .      10                      2             8             0
+ BALLOTS CAST - Democratic .  .  .  .  .  .       3    30.00             2             1             0
+ BALLOTS CAST - Republican .  .  .  .  .  .       7    70.00             0             7             0
+ BALLOTS CAST - NONPARTISAN.  .  .  .  .  .       0                      0             0             0
+ BALLOTS CAST - BLANK.  .  .  .  .  .  .  .       0                      0             0             0
+ BALLOTS CAST - STYLE 00001 (DEM).  .  .  .       3    30.00             2             1             0
+ BALLOTS CAST - STYLE 00002 (REP).  .  .  .       7    70.00             0             7             0
+ VOTER TURNOUT - TOTAL  .  .  .  .  .  .  .             7.19
+ VOTER TURNOUT - Democratic.  .  .  .  .  .            23.08
+ VOTER TURNOUT - Republican.  .  .  .  .  .             5.56
+ VOTER TURNOUT - BLANK  .  .  .  .  .  .  .
+ VOTER TURNOUT - STYLE 00001 (DEM)  .  .  .            23.08
+ VOTER TURNOUT - STYLE 00002 (REP)  .  .  .             5.56
+
+0006 Belleville
+                                        TOTAL VOTES     %       Election      Advance       Prov
+
+US President
+(VOTE FOR)  1
+ Marianne Williamson .  .  .  .  .  .  .  .       1    33.33             1             0             0
+ Jason Michael Palmer.  .  .  .  .  .  .  .       0                      0             0             0
+ Dean Phillips .  .  .  .  .  .  .  .  .  .       0                      0             0             0
+ Joseph R Biden Jr.  .  .  .  .  .  .  .  .       1    33.33             1             0             0
+ None of the names shown.  .  .  .  .  .  .       1    33.33             0             1             0
+
+0006 Belleville
+                                        TOTAL VOTES     %       Election      Advance       Prov
+
+US President
+(VOTE FOR)  1
+ Donald J. Trump  .  .  .  .  .  .  .  .  .       6    85.71             0             6             0
+ Nikki R. Haley.  .  .  .  .  .  .  .  .  .       0                      0             0             0
+ Ron Desantis  .  .  .  .  .  .  .  .  .  .       0                      0             0             0
+ Ryan L. Binkley  .  .  .  .  .  .  .  .  .       0                      0             0             0
+ None of the names shown.  .  .  .  .  .  .       1    14.29             0             1             0
+
+0007 Big Bend
+                                        TOTAL VOTES     %       Election      Advance       Prov
+
+ REGISTERED VOTERS - TOTAL .  .  .  .  .  .     101
+ REGISTERED VOTERS - Democratic  .  .  .  .       6     5.94
+ REGISTERED VOTERS - Republican  .  .  .  .      95    94.06
+ BALLOTS CAST - TOTAL.  .  .  .  .  .  .  .      16                     16             0             0
+ BALLOTS CAST - Democratic .  .  .  .  .  .       0                      0             0             0
+ BALLOTS CAST - Republican .  .  .  .  .  .      16   100.00            16             0             0
+ BALLOTS CAST - NONPARTISAN.  .  .  .  .  .       0                      0             0             0
+ BALLOTS CAST - BLANK.  .  .  .  .  .  .  .       0                      0             0             0
+ BALLOTS CAST - STYLE 00001 (DEM).  .  .  .       0                      0             0             0
+ BALLOTS CAST - STYLE 00002 (REP).  .  .  .      16   100.00            16             0             0
+ VOTER TURNOUT - TOTAL  .  .  .  .  .  .  .            15.84
+ VOTER TURNOUT - Democratic.  .  .  .  .  .
+ VOTER TURNOUT - Republican.  .  .  .  .  .            16.84
+ VOTER TURNOUT - BLANK  .  .  .  .  .  .  .
+ VOTER TURNOUT - STYLE 00001 (DEM)  .  .  .
+ VOTER TURNOUT - STYLE 00002 (REP)  .  .  .            16.84
+
+0007 Big Bend
+                                        TOTAL VOTES     %       Election      Advance       Prov
+
+US President
+(VOTE FOR)  1
+ Marianne Williamson .  .  .  .  .  .  .  .       0                      0             0             0
+ Jason Michael Palmer.  .  .  .  .  .  .  .       0                      0             0             0
+ Dean Phillips .  .  .  .  .  .  .  .  .  .       0                      0             0             0
+ Joseph R Biden Jr.  .  .  .  .  .  .  .  .       0                      0             0             0
+ None of the names shown.  .  .  .  .  .  .       0                      0             0             0
+
+0007 Big Bend
+                                        TOTAL VOTES     %       Election      Advance       Prov
+
+US President
+(VOTE FOR)  1
+ Donald J. Trump  .  .  .  .  .  .  .  .  .      14    87.50            14             0             0
+ Nikki R. Haley.  .  .  .  .  .  .  .  .  .       1     6.25             1             0             0
+ Ron Desantis  .  .  .  .  .  .  .  .  .  .       0                      0             0             0
+ Ryan L. Binkley  .  .  .  .  .  .  .  .  .       0                      0             0             0
+ None of the names shown.  .  .  .  .  .  .       1     6.25             1             0             0
+
+0008 Courtland
+                                        TOTAL VOTES     %       Election      Advance       Prov
+
+ REGISTERED VOTERS - TOTAL .  .  .  .  .  .     229
+ REGISTERED VOTERS - Democratic  .  .  .  .      22     9.61
+ REGISTERED VOTERS - Republican  .  .  .  .     207    90.39
+ BALLOTS CAST - TOTAL.  .  .  .  .  .  .  .      53                      0            53             0
+ BALLOTS CAST - Democratic .  .  .  .  .  .       4     7.55             0             4             0
+ BALLOTS CAST - Republican .  .  .  .  .  .      49    92.45             0            49             0
+ BALLOTS CAST - NONPARTISAN.  .  .  .  .  .       0                      0             0             0
+ BALLOTS CAST - BLANK.  .  .  .  .  .  .  .       0                      0             0             0
+ BALLOTS CAST - STYLE 00001 (DEM).  .  .  .       4     7.55             0             4             0
+ BALLOTS CAST - STYLE 00002 (REP).  .  .  .      49    92.45             0            49             0
+ VOTER TURNOUT - TOTAL  .  .  .  .  .  .  .            23.14
+ VOTER TURNOUT - Democratic.  .  .  .  .  .            18.18
+ VOTER TURNOUT - Republican.  .  .  .  .  .            23.67
+ VOTER TURNOUT - BLANK  .  .  .  .  .  .  .
+ VOTER TURNOUT - STYLE 00001 (DEM)  .  .  .            18.18
+ VOTER TURNOUT - STYLE 00002 (REP)  .  .  .            23.67
+
+0008 Courtland
+                                        TOTAL VOTES     %       Election      Advance       Prov
+
+US President
+(VOTE FOR)  1
+ Marianne Williamson .  .  .  .  .  .  .  .       0                      0             0             0
+ Jason Michael Palmer.  .  .  .  .  .  .  .       0                      0             0             0
+ Dean Phillips .  .  .  .  .  .  .  .  .  .       0                      0             0             0
+ Joseph R Biden Jr.  .  .  .  .  .  .  .  .       2    50.00             0             2             0
+ None of the names shown.  .  .  .  .  .  .       2    50.00             0             2             0
+
+0008 Courtland
+                                        TOTAL VOTES     %       Election      Advance       Prov
+
+US President
+(VOTE FOR)  1
+ Donald J. Trump  .  .  .  .  .  .  .  .  .      44    89.80             0            44             0
+ Nikki R. Haley.  .  .  .  .  .  .  .  .  .       2     4.08             0             2             0
+ Ron Desantis  .  .  .  .  .  .  .  .  .  .       0                      0             0             0
+ Ryan L. Binkley  .  .  .  .  .  .  .  .  .       0                      0             0             0
+ None of the names shown.  .  .  .  .  .  .       3     6.12             0             3             0
+
+0009 Elk Creek
+                                        TOTAL VOTES     %       Election      Advance       Prov
+
+ REGISTERED VOTERS - TOTAL .  .  .  .  .  .      76
+ REGISTERED VOTERS - Democratic  .  .  .  .       5     6.58
+ REGISTERED VOTERS - Republican  .  .  .  .      71    93.42
+ BALLOTS CAST - TOTAL.  .  .  .  .  .  .  .      11                      0            11             0
+ BALLOTS CAST - Democratic .  .  .  .  .  .       1     9.09             0             1             0
+ BALLOTS CAST - Republican .  .  .  .  .  .      10    90.91             0            10             0
+ BALLOTS CAST - NONPARTISAN.  .  .  .  .  .       0                      0             0             0
+ BALLOTS CAST - BLANK.  .  .  .  .  .  .  .       0                      0             0             0
+ BALLOTS CAST - STYLE 00001 (DEM).  .  .  .       1     9.09             0             1             0
+ BALLOTS CAST - STYLE 00002 (REP).  .  .  .      10    90.91             0            10             0
+ VOTER TURNOUT - TOTAL  .  .  .  .  .  .  .            14.47
+ VOTER TURNOUT - Democratic.  .  .  .  .  .            20.00
+ VOTER TURNOUT - Republican.  .  .  .  .  .            14.08
+ VOTER TURNOUT - BLANK  .  .  .  .  .  .  .
+ VOTER TURNOUT - STYLE 00001 (DEM)  .  .  .            20.00
+ VOTER TURNOUT - STYLE 00002 (REP)  .  .  .            14.08
+
+0009 Elk Creek
+                                        TOTAL VOTES     %       Election      Advance       Prov
+
+US President
+(VOTE FOR)  1
+ Marianne Williamson .  .  .  .  .  .  .  .       0                      0             0             0
+ Jason Michael Palmer.  .  .  .  .  .  .  .       1   100.00             0             1             0
+ Dean Phillips .  .  .  .  .  .  .  .  .  .       0                      0             0             0
+ Joseph R Biden Jr.  .  .  .  .  .  .  .  .       0                      0             0             0
+ None of the names shown.  .  .  .  .  .  .       0                      0             0             0
+
+0009 Elk Creek
+                                        TOTAL VOTES     %       Election      Advance       Prov
+
+US President
+(VOTE FOR)  1
+ Donald J. Trump  .  .  .  .  .  .  .  .  .      10   100.00             0            10             0
+ Nikki R. Haley.  .  .  .  .  .  .  .  .  .       0                      0             0             0
+ Ron Desantis  .  .  .  .  .  .  .  .  .  .       0                      0             0             0
+ Ryan L. Binkley  .  .  .  .  .  .  .  .  .       0                      0             0             0
+ None of the names shown.  .  .  .  .  .  .       0                      0             0             0
+
+0010 Fairview
+                                        TOTAL VOTES     %       Election      Advance       Prov
+
+ REGISTERED VOTERS - TOTAL .  .  .  .  .  .      88
+ REGISTERED VOTERS - Democratic  .  .  .  .      20    22.73
+ REGISTERED VOTERS - Republican  .  .  .  .      68    77.27
+ BALLOTS CAST - TOTAL.  .  .  .  .  .  .  .      17                      3            14             0
+ BALLOTS CAST - Democratic .  .  .  .  .  .       1     5.88             0             1             0
+ BALLOTS CAST - Republican .  .  .  .  .  .      16    94.12             3            13             0
+ BALLOTS CAST - NONPARTISAN.  .  .  .  .  .       0                      0             0             0
+ BALLOTS CAST - BLANK.  .  .  .  .  .  .  .       0                      0             0             0
+ BALLOTS CAST - STYLE 00001 (DEM).  .  .  .       1     5.88             0             1             0
+ BALLOTS CAST - STYLE 00002 (REP).  .  .  .      16    94.12             3            13             0
+ VOTER TURNOUT - TOTAL  .  .  .  .  .  .  .            19.32
+ VOTER TURNOUT - Democratic.  .  .  .  .  .             5.00
+ VOTER TURNOUT - Republican.  .  .  .  .  .            23.53
+ VOTER TURNOUT - BLANK  .  .  .  .  .  .  .
+ VOTER TURNOUT - STYLE 00001 (DEM)  .  .  .             5.00
+ VOTER TURNOUT - STYLE 00002 (REP)  .  .  .            23.53
+
+0010 Fairview
+                                        TOTAL VOTES     %       Election      Advance       Prov
+
+US President
+(VOTE FOR)  1
+ Marianne Williamson .  .  .  .  .  .  .  .       0                      0             0             0
+ Jason Michael Palmer.  .  .  .  .  .  .  .       0                      0             0             0
+ Dean Phillips .  .  .  .  .  .  .  .  .  .       0                      0             0             0
+ Joseph R Biden Jr.  .  .  .  .  .  .  .  .       1   100.00             0             1             0
+ None of the names shown.  .  .  .  .  .  .       0                      0             0             0
+
+0010 Fairview
+                                        TOTAL VOTES     %       Election      Advance       Prov
+
+US President
+(VOTE FOR)  1
+ Donald J. Trump  .  .  .  .  .  .  .  .  .      11    68.75             3             8             0
+ Nikki R. Haley.  .  .  .  .  .  .  .  .  .       3    18.75             0             3             0
+ Ron Desantis  .  .  .  .  .  .  .  .  .  .       2    12.50             0             2             0
+ Ryan L. Binkley  .  .  .  .  .  .  .  .  .       0                      0             0             0
+ None of the names shown.  .  .  .  .  .  .       0                      0             0             0
+
+0011 Farmington
+                                        TOTAL VOTES     %       Election      Advance       Prov
+
+ REGISTERED VOTERS - TOTAL .  .  .  .  .  .      37
+ REGISTERED VOTERS - Democratic  .  .  .  .       4    10.81
+ REGISTERED VOTERS - Republican  .  .  .  .      33    89.19
+ BALLOTS CAST - TOTAL.  .  .  .  .  .  .  .       4                      3             1             0
+ BALLOTS CAST - Democratic .  .  .  .  .  .       0                      0             0             0
+ BALLOTS CAST - Republican .  .  .  .  .  .       4   100.00             3             1             0
+ BALLOTS CAST - NONPARTISAN.  .  .  .  .  .       0                      0             0             0
+ BALLOTS CAST - BLANK.  .  .  .  .  .  .  .       0                      0             0             0
+ BALLOTS CAST - STYLE 00001 (DEM).  .  .  .       0                      0             0             0
+ BALLOTS CAST - STYLE 00002 (REP).  .  .  .       4   100.00             3             1             0
+ VOTER TURNOUT - TOTAL  .  .  .  .  .  .  .            10.81
+ VOTER TURNOUT - Democratic.  .  .  .  .  .
+ VOTER TURNOUT - Republican.  .  .  .  .  .            12.12
+ VOTER TURNOUT - BLANK  .  .  .  .  .  .  .
+ VOTER TURNOUT - STYLE 00001 (DEM)  .  .  .
+ VOTER TURNOUT - STYLE 00002 (REP)  .  .  .            12.12
+
+0011 Farmington
+                                        TOTAL VOTES     %       Election      Advance       Prov
+
+US President
+(VOTE FOR)  1
+ Marianne Williamson .  .  .  .  .  .  .  .       0                      0             0             0
+ Jason Michael Palmer.  .  .  .  .  .  .  .       0                      0             0             0
+ Dean Phillips .  .  .  .  .  .  .  .  .  .       0                      0             0             0
+ Joseph R Biden Jr.  .  .  .  .  .  .  .  .       0                      0             0             0
+ None of the names shown.  .  .  .  .  .  .       0                      0             0             0
+
+0011 Farmington
+                                        TOTAL VOTES     %       Election      Advance       Prov
+
+US President
+(VOTE FOR)  1
+ Donald J. Trump  .  .  .  .  .  .  .  .  .       4   100.00             3             1             0
+ Nikki R. Haley.  .  .  .  .  .  .  .  .  .       0                      0             0             0
+ Ron Desantis  .  .  .  .  .  .  .  .  .  .       0                      0             0             0
+ Ryan L. Binkley  .  .  .  .  .  .  .  .  .       0                      0             0             0
+ None of the names shown.  .  .  .  .  .  .       0                      0             0             0
+
+0012 Freedom
+                                        TOTAL VOTES     %       Election      Advance       Prov
+
+ REGISTERED VOTERS - TOTAL .  .  .  .  .  .     114
+ REGISTERED VOTERS - Democratic  .  .  .  .      14    12.28
+ REGISTERED VOTERS - Republican  .  .  .  .     100    87.72
+ BALLOTS CAST - TOTAL.  .  .  .  .  .  .  .      11                      4             7             0
+ BALLOTS CAST - Democratic .  .  .  .  .  .       0                      0             0             0
+ BALLOTS CAST - Republican .  .  .  .  .  .      11   100.00             4             7             0
+ BALLOTS CAST - NONPARTISAN.  .  .  .  .  .       0                      0             0             0
+ BALLOTS CAST - BLANK.  .  .  .  .  .  .  .       0                      0             0             0
+ BALLOTS CAST - STYLE 00001 (DEM).  .  .  .       0                      0             0             0
+ BALLOTS CAST - STYLE 00002 (REP).  .  .  .      11   100.00             4             7             0
+ VOTER TURNOUT - TOTAL  .  .  .  .  .  .  .             9.65
+ VOTER TURNOUT - Democratic.  .  .  .  .  .
+ VOTER TURNOUT - Republican.  .  .  .  .  .            11.00
+ VOTER TURNOUT - BLANK  .  .  .  .  .  .  .
+ VOTER TURNOUT - STYLE 00001 (DEM)  .  .  .
+ VOTER TURNOUT - STYLE 00002 (REP)  .  .  .            11.00
+
+0012 Freedom
+                                        TOTAL VOTES     %       Election      Advance       Prov
+
+US President
+(VOTE FOR)  1
+ Marianne Williamson .  .  .  .  .  .  .  .       0                      0             0             0
+ Jason Michael Palmer.  .  .  .  .  .  .  .       0                      0             0             0
+ Dean Phillips .  .  .  .  .  .  .  .  .  .       0                      0             0             0
+ Joseph R Biden Jr.  .  .  .  .  .  .  .  .       0                      0             0             0
+ None of the names shown.  .  .  .  .  .  .       0                      0             0             0
+
+0012 Freedom
+                                        TOTAL VOTES     %       Election      Advance       Prov
+
+US President
+(VOTE FOR)  1
+ Donald J. Trump  .  .  .  .  .  .  .  .  .      10    90.91             3             7             0
+ Nikki R. Haley.  .  .  .  .  .  .  .  .  .       0                      0             0             0
+ Ron Desantis  .  .  .  .  .  .  .  .  .  .       1     9.09             1             0             0
+ Ryan L. Binkley  .  .  .  .  .  .  .  .  .       0                      0             0             0
+ None of the names shown.  .  .  .  .  .  .       0                      0             0             0
+
+0013 Grant
+                                        TOTAL VOTES     %       Election      Advance       Prov
+
+ REGISTERED VOTERS - TOTAL .  .  .  .  .  .      47
+ REGISTERED VOTERS - Democratic  .  .  .  .       8    17.02
+ REGISTERED VOTERS - Republican  .  .  .  .      39    82.98
+ BALLOTS CAST - TOTAL.  .  .  .  .  .  .  .       0                      0             0             0
+ BALLOTS CAST - Democratic .  .  .  .  .  .       0                      0             0             0
+ BALLOTS CAST - Republican .  .  .  .  .  .       0                      0             0             0
+ BALLOTS CAST - NONPARTISAN.  .  .  .  .  .       0                      0             0             0
+ BALLOTS CAST - BLANK.  .  .  .  .  .  .  .       0                      0             0             0
+ BALLOTS CAST - STYLE 00001 (DEM).  .  .  .       0                      0             0             0
+ BALLOTS CAST - STYLE 00002 (REP).  .  .  .       0                      0             0             0
+
+0013 Grant
+                                        TOTAL VOTES     %       Election      Advance       Prov
+
+US President
+(VOTE FOR)  1
+ Marianne Williamson .  .  .  .  .  .  .  .       0                      0             0             0
+ Jason Michael Palmer.  .  .  .  .  .  .  .       0                      0             0             0
+ Dean Phillips .  .  .  .  .  .  .  .  .  .       0                      0             0             0
+ Joseph R Biden Jr.  .  .  .  .  .  .  .  .       0                      0             0             0
+ None of the names shown.  .  .  .  .  .  .       0                      0             0             0
+
+0013 Grant
+                                        TOTAL VOTES     %       Election      Advance       Prov
+
+US President
+(VOTE FOR)  1
+ Donald J. Trump  .  .  .  .  .  .  .  .  .       0                      0             0             0
+ Nikki R. Haley.  .  .  .  .  .  .  .  .  .       0                      0             0             0
+ Ron Desantis  .  .  .  .  .  .  .  .  .  .       0                      0             0             0
+ Ryan L. Binkley  .  .  .  .  .  .  .  .  .       0                      0             0             0
+ None of the names shown.  .  .  .  .  .  .       0                      0             0             0
+
+0014 Jefferson
+                                        TOTAL VOTES     %       Election      Advance       Prov
+
+ REGISTERED VOTERS - TOTAL .  .  .  .  .  .      72
+ REGISTERED VOTERS - Democratic  .  .  .  .       5     6.94
+ REGISTERED VOTERS - Republican  .  .  .  .      67    93.06
+ BALLOTS CAST - TOTAL.  .  .  .  .  .  .  .       8                      1             7             0
+ BALLOTS CAST - Democratic .  .  .  .  .  .       1    12.50             0             1             0
+ BALLOTS CAST - Republican .  .  .  .  .  .       7    87.50             1             6             0
+ BALLOTS CAST - NONPARTISAN.  .  .  .  .  .       0                      0             0             0
+ BALLOTS CAST - BLANK.  .  .  .  .  .  .  .       0                      0             0             0
+ BALLOTS CAST - STYLE 00001 (DEM).  .  .  .       1    12.50             0             1             0
+ BALLOTS CAST - STYLE 00002 (REP).  .  .  .       7    87.50             1             6             0
+ VOTER TURNOUT - TOTAL  .  .  .  .  .  .  .            11.11
+ VOTER TURNOUT - Democratic.  .  .  .  .  .            20.00
+ VOTER TURNOUT - Republican.  .  .  .  .  .            10.45
+ VOTER TURNOUT - BLANK  .  .  .  .  .  .  .
+ VOTER TURNOUT - STYLE 00001 (DEM)  .  .  .            20.00
+ VOTER TURNOUT - STYLE 00002 (REP)  .  .  .            10.45
+
+0014 Jefferson
+                                        TOTAL VOTES     %       Election      Advance       Prov
+
+US President
+(VOTE FOR)  1
+ Marianne Williamson .  .  .  .  .  .  .  .       0                      0             0             0
+ Jason Michael Palmer.  .  .  .  .  .  .  .       0                      0             0             0
+ Dean Phillips .  .  .  .  .  .  .  .  .  .       0                      0             0             0
+ Joseph R Biden Jr.  .  .  .  .  .  .  .  .       1   100.00             0             1             0
+ None of the names shown.  .  .  .  .  .  .       0                      0             0             0
+
+0014 Jefferson
+                                        TOTAL VOTES     %       Election      Advance       Prov
+
+US President
+(VOTE FOR)  1
+ Donald J. Trump  .  .  .  .  .  .  .  .  .       6    85.71             1             5             0
+ Nikki R. Haley.  .  .  .  .  .  .  .  .  .       1    14.29             0             1             0
+ Ron Desantis  .  .  .  .  .  .  .  .  .  .       0                      0             0             0
+ Ryan L. Binkley  .  .  .  .  .  .  .  .  .       0                      0             0             0
+ None of the names shown.  .  .  .  .  .  .       0                      0             0             0
+
+0015 Liberty
+                                        TOTAL VOTES     %       Election      Advance       Prov
+
+ REGISTERED VOTERS - TOTAL .  .  .  .  .  .      31
+ REGISTERED VOTERS - Democratic  .  .  .  .       4    12.90
+ REGISTERED VOTERS - Republican  .  .  .  .      27    87.10
+ BALLOTS CAST - TOTAL.  .  .  .  .  .  .  .       2                      1             1             0
+ BALLOTS CAST - Democratic .  .  .  .  .  .       0                      0             0             0
+ BALLOTS CAST - Republican .  .  .  .  .  .       2   100.00             1             1             0
+ BALLOTS CAST - NONPARTISAN.  .  .  .  .  .       0                      0             0             0
+ BALLOTS CAST - BLANK.  .  .  .  .  .  .  .       0                      0             0             0
+ BALLOTS CAST - STYLE 00001 (DEM).  .  .  .       0                      0             0             0
+ BALLOTS CAST - STYLE 00002 (REP).  .  .  .       2   100.00             1             1             0
+ VOTER TURNOUT - TOTAL  .  .  .  .  .  .  .             6.45
+ VOTER TURNOUT - Democratic.  .  .  .  .  .
+ VOTER TURNOUT - Republican.  .  .  .  .  .             7.41
+ VOTER TURNOUT - BLANK  .  .  .  .  .  .  .
+ VOTER TURNOUT - STYLE 00001 (DEM)  .  .  .
+ VOTER TURNOUT - STYLE 00002 (REP)  .  .  .             7.41
+
+0015 Liberty
+                                        TOTAL VOTES     %       Election      Advance       Prov
+
+US President
+(VOTE FOR)  1
+ Marianne Williamson .  .  .  .  .  .  .  .       0                      0             0             0
+ Jason Michael Palmer.  .  .  .  .  .  .  .       0                      0             0             0
+ Dean Phillips .  .  .  .  .  .  .  .  .  .       0                      0             0             0
+ Joseph R Biden Jr.  .  .  .  .  .  .  .  .       0                      0             0             0
+ None of the names shown.  .  .  .  .  .  .       0                      0             0             0
+
+0015 Liberty
+                                        TOTAL VOTES     %       Election      Advance       Prov
+
+US President
+(VOTE FOR)  1
+ Donald J. Trump  .  .  .  .  .  .  .  .  .       2   100.00             1             1             0
+ Nikki R. Haley.  .  .  .  .  .  .  .  .  .       0                      0             0             0
+ Ron Desantis  .  .  .  .  .  .  .  .  .  .       0                      0             0             0
+ Ryan L. Binkley  .  .  .  .  .  .  .  .  .       0                      0             0             0
+ None of the names shown.  .  .  .  .  .  .       0                      0             0             0
+
+0016 Lincoln
+                                        TOTAL VOTES     %       Election      Advance       Prov
+
+ REGISTERED VOTERS - TOTAL .  .  .  .  .  .      57
+ REGISTERED VOTERS - Democratic  .  .  .  .       3     5.26
+ REGISTERED VOTERS - Republican  .  .  .  .      54    94.74
+ BALLOTS CAST - TOTAL.  .  .  .  .  .  .  .       8                      2             6             0
+ BALLOTS CAST - Democratic .  .  .  .  .  .       0                      0             0             0
+ BALLOTS CAST - Republican .  .  .  .  .  .       8   100.00             2             6             0
+ BALLOTS CAST - NONPARTISAN.  .  .  .  .  .       0                      0             0             0
+ BALLOTS CAST - BLANK.  .  .  .  .  .  .  .       0                      0             0             0
+ BALLOTS CAST - STYLE 00001 (DEM).  .  .  .       0                      0             0             0
+ BALLOTS CAST - STYLE 00002 (REP).  .  .  .       8   100.00             2             6             0
+ VOTER TURNOUT - TOTAL  .  .  .  .  .  .  .            14.04
+ VOTER TURNOUT - Democratic.  .  .  .  .  .
+ VOTER TURNOUT - Republican.  .  .  .  .  .            14.81
+ VOTER TURNOUT - BLANK  .  .  .  .  .  .  .
+ VOTER TURNOUT - STYLE 00001 (DEM)  .  .  .
+ VOTER TURNOUT - STYLE 00002 (REP)  .  .  .            14.81
+
+0016 Lincoln
+                                        TOTAL VOTES     %       Election      Advance       Prov
+
+US President
+(VOTE FOR)  1
+ Marianne Williamson .  .  .  .  .  .  .  .       0                      0             0             0
+ Jason Michael Palmer.  .  .  .  .  .  .  .       0                      0             0             0
+ Dean Phillips .  .  .  .  .  .  .  .  .  .       0                      0             0             0
+ Joseph R Biden Jr.  .  .  .  .  .  .  .  .       0                      0             0             0
+ None of the names shown.  .  .  .  .  .  .       0                      0             0             0
+
+0016 Lincoln
+                                        TOTAL VOTES     %       Election      Advance       Prov
+
+US President
+(VOTE FOR)  1
+ Donald J. Trump  .  .  .  .  .  .  .  .  .       8   100.00             2             6             0
+ Nikki R. Haley.  .  .  .  .  .  .  .  .  .       0                      0             0             0
+ Ron Desantis  .  .  .  .  .  .  .  .  .  .       0                      0             0             0
+ Ryan L. Binkley  .  .  .  .  .  .  .  .  .       0                      0             0             0
+ None of the names shown.  .  .  .  .  .  .       0                      0             0             0
+
+0017 Norway
+                                        TOTAL VOTES     %       Election      Advance       Prov
+
+ REGISTERED VOTERS - TOTAL .  .  .  .  .  .      82
+ REGISTERED VOTERS - Democratic  .  .  .  .       6     7.32
+ REGISTERED VOTERS - Republican  .  .  .  .      76    92.68
+ BALLOTS CAST - TOTAL.  .  .  .  .  .  .  .      11                      0            11             0
+ BALLOTS CAST - Democratic .  .  .  .  .  .       0                      0             0             0
+ BALLOTS CAST - Republican .  .  .  .  .  .      11   100.00             0            11             0
+ BALLOTS CAST - NONPARTISAN.  .  .  .  .  .       0                      0             0             0
+ BALLOTS CAST - BLANK.  .  .  .  .  .  .  .       0                      0             0             0
+ BALLOTS CAST - STYLE 00001 (DEM).  .  .  .       0                      0             0             0
+ BALLOTS CAST - STYLE 00002 (REP).  .  .  .      11   100.00             0            11             0
+ VOTER TURNOUT - TOTAL  .  .  .  .  .  .  .            13.41
+ VOTER TURNOUT - Democratic.  .  .  .  .  .
+ VOTER TURNOUT - Republican.  .  .  .  .  .            14.47
+ VOTER TURNOUT - BLANK  .  .  .  .  .  .  .
+ VOTER TURNOUT - STYLE 00001 (DEM)  .  .  .
+ VOTER TURNOUT - STYLE 00002 (REP)  .  .  .            14.47
+
+0017 Norway
+                                        TOTAL VOTES     %       Election      Advance       Prov
+
+US President
+(VOTE FOR)  1
+ Marianne Williamson .  .  .  .  .  .  .  .       0                      0             0             0
+ Jason Michael Palmer.  .  .  .  .  .  .  .       0                      0             0             0
+ Dean Phillips .  .  .  .  .  .  .  .  .  .       0                      0             0             0
+ Joseph R Biden Jr.  .  .  .  .  .  .  .  .       0                      0             0             0
+ None of the names shown.  .  .  .  .  .  .       0                      0             0             0
+
+0017 Norway
+                                        TOTAL VOTES     %       Election      Advance       Prov
+
+US President
+(VOTE FOR)  1
+ Donald J. Trump  .  .  .  .  .  .  .  .  .      11   100.00             0            11             0
+ Nikki R. Haley.  .  .  .  .  .  .  .  .  .       0                      0             0             0
+ Ron Desantis  .  .  .  .  .  .  .  .  .  .       0                      0             0             0
+ Ryan L. Binkley  .  .  .  .  .  .  .  .  .       0                      0             0             0
+ None of the names shown.  .  .  .  .  .  .       0                      0             0             0
+
+0018 Richland
+                                        TOTAL VOTES     %       Election      Advance       Prov
+
+ REGISTERED VOTERS - TOTAL .  .  .  .  .  .     135
+ REGISTERED VOTERS - Democratic  .  .  .  .       7     5.19
+ REGISTERED VOTERS - Republican  .  .  .  .     128    94.81
+ BALLOTS CAST - TOTAL.  .  .  .  .  .  .  .      16                      2            14             0
+ BALLOTS CAST - Democratic .  .  .  .  .  .       2    12.50             0             2             0
+ BALLOTS CAST - Republican .  .  .  .  .  .      14    87.50             2            12             0
+ BALLOTS CAST - NONPARTISAN.  .  .  .  .  .       0                      0             0             0
+ BALLOTS CAST - BLANK.  .  .  .  .  .  .  .       0                      0             0             0
+ BALLOTS CAST - STYLE 00001 (DEM).  .  .  .       2    12.50             0             2             0
+ BALLOTS CAST - STYLE 00002 (REP).  .  .  .      14    87.50             2            12             0
+ VOTER TURNOUT - TOTAL  .  .  .  .  .  .  .            11.85
+ VOTER TURNOUT - Democratic.  .  .  .  .  .            28.57
+ VOTER TURNOUT - Republican.  .  .  .  .  .            10.94
+ VOTER TURNOUT - BLANK  .  .  .  .  .  .  .
+ VOTER TURNOUT - STYLE 00001 (DEM)  .  .  .            28.57
+ VOTER TURNOUT - STYLE 00002 (REP)  .  .  .            10.94
+
+0018 Richland
+                                        TOTAL VOTES     %       Election      Advance       Prov
+
+US President
+(VOTE FOR)  1
+ Marianne Williamson .  .  .  .  .  .  .  .       1    50.00             0             1             0
+ Jason Michael Palmer.  .  .  .  .  .  .  .       0                      0             0             0
+ Dean Phillips .  .  .  .  .  .  .  .  .  .       0                      0             0             0
+ Joseph R Biden Jr.  .  .  .  .  .  .  .  .       1    50.00             0             1             0
+ None of the names shown.  .  .  .  .  .  .       0                      0             0             0
+
+0018 Richland
+                                        TOTAL VOTES     %       Election      Advance       Prov
+
+US President
+(VOTE FOR)  1
+ Donald J. Trump  .  .  .  .  .  .  .  .  .      10    71.43             2             8             0
+ Nikki R. Haley.  .  .  .  .  .  .  .  .  .       2    14.29             0             2             0
+ Ron Desantis  .  .  .  .  .  .  .  .  .  .       2    14.29             0             2             0
+ Ryan L. Binkley  .  .  .  .  .  .  .  .  .       0                      0             0             0
+ None of the names shown.  .  .  .  .  .  .       0                      0             0             0
+
+0019 Rose Creek
+                                        TOTAL VOTES     %       Election      Advance       Prov
+
+ REGISTERED VOTERS - TOTAL .  .  .  .  .  .      69
+ REGISTERED VOTERS - Democratic  .  .  .  .      11    15.94
+ REGISTERED VOTERS - Republican  .  .  .  .      58    84.06
+ BALLOTS CAST - TOTAL.  .  .  .  .  .  .  .      20                      1            19             0
+ BALLOTS CAST - Democratic .  .  .  .  .  .       5    25.00             0             5             0
+ BALLOTS CAST - Republican .  .  .  .  .  .      15    75.00             1            14             0
+ BALLOTS CAST - NONPARTISAN.  .  .  .  .  .       0                      0             0             0
+ BALLOTS CAST - BLANK.  .  .  .  .  .  .  .       0                      0             0             0
+ BALLOTS CAST - STYLE 00001 (DEM).  .  .  .       5    25.00             0             5             0
+ BALLOTS CAST - STYLE 00002 (REP).  .  .  .      15    75.00             1            14             0
+ VOTER TURNOUT - TOTAL  .  .  .  .  .  .  .            28.99
+ VOTER TURNOUT - Democratic.  .  .  .  .  .            45.45
+ VOTER TURNOUT - Republican.  .  .  .  .  .            25.86
+ VOTER TURNOUT - BLANK  .  .  .  .  .  .  .
+ VOTER TURNOUT - STYLE 00001 (DEM)  .  .  .            45.45
+ VOTER TURNOUT - STYLE 00002 (REP)  .  .  .            25.86
+
+0019 Rose Creek
+                                        TOTAL VOTES     %       Election      Advance       Prov
+
+US President
+(VOTE FOR)  1
+ Marianne Williamson .  .  .  .  .  .  .  .       0                      0             0             0
+ Jason Michael Palmer.  .  .  .  .  .  .  .       0                      0             0             0
+ Dean Phillips .  .  .  .  .  .  .  .  .  .       0                      0             0             0
+ Joseph R Biden Jr.  .  .  .  .  .  .  .  .       4    80.00             0             4             0
+ None of the names shown.  .  .  .  .  .  .       1    20.00             0             1             0
+
+0019 Rose Creek
+                                        TOTAL VOTES     %       Election      Advance       Prov
+
+US President
+(VOTE FOR)  1
+ Donald J. Trump  .  .  .  .  .  .  .  .  .      15   100.00             1            14             0
+ Nikki R. Haley.  .  .  .  .  .  .  .  .  .       0                      0             0             0
+ Ron Desantis  .  .  .  .  .  .  .  .  .  .       0                      0             0             0
+ Ryan L. Binkley  .  .  .  .  .  .  .  .  .       0                      0             0             0
+ None of the names shown.  .  .  .  .  .  .       0                      0             0             0
+
+0020 Scandia
+                                        TOTAL VOTES     %       Election      Advance       Prov
+
+ REGISTERED VOTERS - TOTAL .  .  .  .  .  .     263
+ REGISTERED VOTERS - Democratic  .  .  .  .      29    11.03
+ REGISTERED VOTERS - Republican  .  .  .  .     234    88.97
+ BALLOTS CAST - TOTAL.  .  .  .  .  .  .  .      32                      3            29             0
+ BALLOTS CAST - Democratic .  .  .  .  .  .       4    12.50             1             3             0
+ BALLOTS CAST - Republican .  .  .  .  .  .      28    87.50             2            26             0
+ BALLOTS CAST - NONPARTISAN.  .  .  .  .  .       0                      0             0             0
+ BALLOTS CAST - BLANK.  .  .  .  .  .  .  .       0                      0             0             0
+ BALLOTS CAST - STYLE 00001 (DEM).  .  .  .       4    12.50             1             3             0
+ BALLOTS CAST - STYLE 00002 (REP).  .  .  .      28    87.50             2            26             0
+ VOTER TURNOUT - TOTAL  .  .  .  .  .  .  .            12.17
+ VOTER TURNOUT - Democratic.  .  .  .  .  .            13.79
+ VOTER TURNOUT - Republican.  .  .  .  .  .            11.97
+ VOTER TURNOUT - BLANK  .  .  .  .  .  .  .
+ VOTER TURNOUT - STYLE 00001 (DEM)  .  .  .            13.79
+ VOTER TURNOUT - STYLE 00002 (REP)  .  .  .            11.97
+
+0020 Scandia
+                                        TOTAL VOTES     %       Election      Advance       Prov
+
+US President
+(VOTE FOR)  1
+ Marianne Williamson .  .  .  .  .  .  .  .       0                      0             0             0
+ Jason Michael Palmer.  .  .  .  .  .  .  .       0                      0             0             0
+ Dean Phillips .  .  .  .  .  .  .  .  .  .       0                      0             0             0
+ Joseph R Biden Jr.  .  .  .  .  .  .  .  .       2    50.00             1             1             0
+ None of the names shown.  .  .  .  .  .  .       2    50.00             0             2             0
+
+0020 Scandia
+                                        TOTAL VOTES     %       Election      Advance       Prov
+
+US President
+(VOTE FOR)  1
+ Donald J. Trump  .  .  .  .  .  .  .  .  .      18    64.29             2            16             0
+ Nikki R. Haley.  .  .  .  .  .  .  .  .  .       8    28.57             0             8             0
+ Ron Desantis  .  .  .  .  .  .  .  .  .  .       1     3.57             0             1             0
+ Ryan L. Binkley  .  .  .  .  .  .  .  .  .       0                      0             0             0
+ None of the names shown.  .  .  .  .  .  .       1     3.57             0             1             0
+
+0021 Union
+                                        TOTAL VOTES     %       Election      Advance       Prov
+
+ REGISTERED VOTERS - TOTAL .  .  .  .  .  .      21
+ REGISTERED VOTERS - Democratic  .  .  .  .       6    28.57
+ REGISTERED VOTERS - Republican  .  .  .  .      15    71.43
+ BALLOTS CAST - TOTAL.  .  .  .  .  .  .  .       2                      2             0             0
+ BALLOTS CAST - Democratic .  .  .  .  .  .       0                      0             0             0
+ BALLOTS CAST - Republican .  .  .  .  .  .       2   100.00             2             0             0
+ BALLOTS CAST - NONPARTISAN.  .  .  .  .  .       0                      0             0             0
+ BALLOTS CAST - BLANK.  .  .  .  .  .  .  .       0                      0             0             0
+ BALLOTS CAST - STYLE 00001 (DEM).  .  .  .       0                      0             0             0
+ BALLOTS CAST - STYLE 00002 (REP).  .  .  .       2   100.00             2             0             0
+ VOTER TURNOUT - TOTAL  .  .  .  .  .  .  .             9.52
+ VOTER TURNOUT - Democratic.  .  .  .  .  .
+ VOTER TURNOUT - Republican.  .  .  .  .  .            13.33
+ VOTER TURNOUT - BLANK  .  .  .  .  .  .  .
+ VOTER TURNOUT - STYLE 00001 (DEM)  .  .  .
+ VOTER TURNOUT - STYLE 00002 (REP)  .  .  .            13.33
+
+0021 Union
+                                        TOTAL VOTES     %       Election      Advance       Prov
+
+US President
+(VOTE FOR)  1
+ Marianne Williamson .  .  .  .  .  .  .  .       0                      0             0             0
+ Jason Michael Palmer.  .  .  .  .  .  .  .       0                      0             0             0
+ Dean Phillips .  .  .  .  .  .  .  .  .  .       0                      0             0             0
+ Joseph R Biden Jr.  .  .  .  .  .  .  .  .       0                      0             0             0
+ None of the names shown.  .  .  .  .  .  .       0                      0             0             0
+
+0021 Union
+                                        TOTAL VOTES     %       Election      Advance       Prov
+
+US President
+(VOTE FOR)  1
+ Donald J. Trump  .  .  .  .  .  .  .  .  .       2   100.00             2             0             0
+ Nikki R. Haley.  .  .  .  .  .  .  .  .  .       0                      0             0             0
+ Ron Desantis  .  .  .  .  .  .  .  .  .  .       0                      0             0             0
+ Ryan L. Binkley  .  .  .  .  .  .  .  .  .       0                      0             0             0
+ None of the names shown.  .  .  .  .  .  .       0                      0             0             0
+
+0022 Washington
+                                        TOTAL VOTES     %       Election      Advance       Prov
+
+ REGISTERED VOTERS - TOTAL .  .  .  .  .  .      46
+ REGISTERED VOTERS - Democratic  .  .  .  .       3     6.52
+ REGISTERED VOTERS - Republican  .  .  .  .      43    93.48
+ BALLOTS CAST - TOTAL.  .  .  .  .  .  .  .       9                      8             1             0
+ BALLOTS CAST - Democratic .  .  .  .  .  .       1    11.11             1             0             0
+ BALLOTS CAST - Republican .  .  .  .  .  .       8    88.89             7             1             0
+ BALLOTS CAST - NONPARTISAN.  .  .  .  .  .       0                      0             0             0
+ BALLOTS CAST - BLANK.  .  .  .  .  .  .  .       0                      0             0             0
+ BALLOTS CAST - STYLE 00001 (DEM).  .  .  .       1    11.11             1             0             0
+ BALLOTS CAST - STYLE 00002 (REP).  .  .  .       8    88.89             7             1             0
+ VOTER TURNOUT - TOTAL  .  .  .  .  .  .  .            19.57
+ VOTER TURNOUT - Democratic.  .  .  .  .  .            33.33
+ VOTER TURNOUT - Republican.  .  .  .  .  .            18.60
+ VOTER TURNOUT - BLANK  .  .  .  .  .  .  .
+ VOTER TURNOUT - STYLE 00001 (DEM)  .  .  .            33.33
+ VOTER TURNOUT - STYLE 00002 (REP)  .  .  .            18.60
+
+0022 Washington
+                                        TOTAL VOTES     %       Election      Advance       Prov
+
+US President
+(VOTE FOR)  1
+ Marianne Williamson .  .  .  .  .  .  .  .       0                      0             0             0
+ Jason Michael Palmer.  .  .  .  .  .  .  .       0                      0             0             0
+ Dean Phillips .  .  .  .  .  .  .  .  .  .       0                      0             0             0
+ Joseph R Biden Jr.  .  .  .  .  .  .  .  .       1   100.00             1             0             0
+ None of the names shown.  .  .  .  .  .  .       0                      0             0             0
+
+0022 Washington
+                                        TOTAL VOTES     %       Election      Advance       Prov
+
+US President
+(VOTE FOR)  1
+ Donald J. Trump  .  .  .  .  .  .  .  .  .       7    87.50             6             1             0
+ Nikki R. Haley.  .  .  .  .  .  .  .  .  .       1    12.50             1             0             0
+ Ron Desantis  .  .  .  .  .  .  .  .  .  .       0                      0             0             0
+ Ryan L. Binkley  .  .  .  .  .  .  .  .  .       0                      0             0             0
+ None of the names shown.  .  .  .  .  .  .       0                      0             0             0
+
+0023 White Rock
+                                        TOTAL VOTES     %       Election      Advance       Prov
+
+ REGISTERED VOTERS - TOTAL .  .  .  .  .  .      54
+ REGISTERED VOTERS - Democratic  .  .  .  .       5     9.26
+ REGISTERED VOTERS - Republican  .  .  .  .      49    90.74
+ BALLOTS CAST - TOTAL.  .  .  .  .  .  .  .       4                      2             2             0
+ BALLOTS CAST - Democratic .  .  .  .  .  .       1    25.00             1             0             0
+ BALLOTS CAST - Republican .  .  .  .  .  .       3    75.00             1             2             0
+ BALLOTS CAST - NONPARTISAN.  .  .  .  .  .       0                      0             0             0
+ BALLOTS CAST - BLANK.  .  .  .  .  .  .  .       0                      0             0             0
+ BALLOTS CAST - STYLE 00001 (DEM).  .  .  .       1    25.00             1             0             0
+ BALLOTS CAST - STYLE 00002 (REP).  .  .  .       3    75.00             1             2             0
+ VOTER TURNOUT - TOTAL  .  .  .  .  .  .  .             7.41
+ VOTER TURNOUT - Democratic.  .  .  .  .  .            20.00
+ VOTER TURNOUT - Republican.  .  .  .  .  .             6.12
+ VOTER TURNOUT - BLANK  .  .  .  .  .  .  .
+ VOTER TURNOUT - STYLE 00001 (DEM)  .  .  .            20.00
+ VOTER TURNOUT - STYLE 00002 (REP)  .  .  .             6.12
+
+0023 White Rock
+                                        TOTAL VOTES     %       Election      Advance       Prov
+
+US President
+(VOTE FOR)  1
+ Marianne Williamson .  .  .  .  .  .  .  .       0                      0             0             0
+ Jason Michael Palmer.  .  .  .  .  .  .  .       0                      0             0             0
+ Dean Phillips .  .  .  .  .  .  .  .  .  .       0                      0             0             0
+ Joseph R Biden Jr.  .  .  .  .  .  .  .  .       1   100.00             1             0             0
+ None of the names shown.  .  .  .  .  .  .       0                      0             0             0
+
+0023 White Rock
+                                        TOTAL VOTES     %       Election      Advance       Prov
+
+US President
+(VOTE FOR)  1
+ Donald J. Trump  .  .  .  .  .  .  .  .  .       3   100.00             1             2             0
+ Nikki R. Haley.  .  .  .  .  .  .  .  .  .       0                      0             0             0
+ Ron Desantis  .  .  .  .  .  .  .  .  .  .       0                      0             0             0
+ Ryan L. Binkley  .  .  .  .  .  .  .  .  .       0                      0             0             0
+ None of the names shown.  .  .  .  .  .  .       0                      0             0             0
+
