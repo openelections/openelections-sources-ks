@@ -1,0 +1,351 @@
+E&l2a1o6c059F(s0p16.66h3b6T&a00L
+SUMMARY REPT-GROUP DETAIL                                       General Election                                                    Unofficial Results
+                                                                Allen County, Kansas
+                                                                November 5, 2024
+Run Date:11/18/24 09:57 AM                                                                                                          Report EL45A     Page 001
+
+                                       TOTAL VOTES     %        AGROUP-01     EDS           HDCT          WED           THS           FRI           PROV
+
+ PRECINCTS COUNTED (OF 21) .  .  .  .  .         21  100.00
+ REGISTERED VOTERS - TOTAL .  .  .  .  .      8,938
+ BALLOTS CAST - TOTAL.  .  .  .  .  .  .      5,648                 2,153         3,436             9             5             4             0            41
+ BALLOTS CAST - BLANK.  .  .  .  .  .  .          0                     0             0             0             0             0             0             0
+ VOTER TURNOUT - TOTAL  .  .  .  .  .  .              63.19
+ VOTER TURNOUT - BLANK  .  .  .  .  .  .
+
+United States President and Vice President
+(VOTE FOR)  1
+    (WITH 21 OF 21 PRECINCTS COUNTED)
+ Harris and Walz (Dem)  .  .  .  .  .  .      1,445   25.71           712           720             2             2             1             0             8
+ Kennedy Jr. and Shanahan (ind)  .  .  .         99    1.76            31            67             0             0             1             0             0
+ Oliver and ter Maat (Lib) .  .  .  .  .         27     .48             8            19             0             0             0             0             0
+ Trump and Vance (Rep)  .  .  .  .  .  .      4,029   71.69         1,384         2,600             7             3             2             0            33
+ WRITE-IN.  .  .  .  .  .  .  .  .  .  .         20     .36             7            13             0             0             0             0             0
+
+
+United States House of Representatives
+(VOTE FOR)  1
+    (WITH 21 OF 21 PRECINCTS COUNTED)
+ Derek Schmidt (Rep) .  .  .  .  .  .  .      3,952   70.69         1,391         2,517             6             3             2             0            33
+ Nancy Boyda (Dem).  .  .  .  .  .  .  .      1,446   25.86           687           750             2             1             0             0             6
+ John Hauer (Lib) .  .  .  .  .  .  .  .        185    3.31            52           131             0             0             1             0             1
+ WRITE-IN.  .  .  .  .  .  .  .  .  .  .          8     .14             2             5             0             0             0             0             1
+
+
+State Senate
+(VOTE FOR)  1
+    (WITH 21 OF 21 PRECINCTS COUNTED)
+ Cullene Lang (Lib)  .  .  .  .  .  .  .      1,166   21.45           540           616             1             1             1             0             7
+ Caryn Tyson (Rep).  .  .  .  .  .  .  .      4,241   78.02         1,491         2,706             6             3             2             0            33
+ WRITE-IN.  .  .  .  .  .  .  .  .  .  .         29     .53            15            13             0             0             0             0             1
+
+
+State Representative
+(VOTE FOR)  1
+    (WITH 21 OF 21 PRECINCTS COUNTED)
+ Fred Gardner (Rep)  .  .  .  .  .  .  .      4,980   97.74         1,818         3,115             6             2             2             0            37
+ WRITE-IN.  .  .  .  .  .  .  .  .  .  .        115    2.26            52            62             0             1             0             0             0
+
+
+County Commissioner District #2
+(VOTE FOR)  1
+    (WITH 8 OF 8 PRECINCTS COUNTED)
+ David E. Lee (Rep)  .  .  .  .  .  .  .      1,763   96.44           718         1,027             2             0             2             0            14
+ WRITE-IN.  .  .  .  .  .  .  .  .  .  .         65    3.56            20            45             0             0             0             0             0SUMMARY REPT-GROUP DETAIL                                       General Election                                                    Unofficial Results
+                                                                Allen County, Kansas
+                                                                November 5, 2024
+Run Date:11/18/24 09:57 AM                                                                                                          Report EL45A     Page 002
+
+                                       TOTAL VOTES     %        AGROUP-01     EDS           HDCT          WED           THS           FRI           PROV
+
+County Commissioner District #3
+(VOTE FOR)  1
+    (WITH 4 OF 4 PRECINCTS COUNTED)
+ John F. Brocker (Rep)  .  .  .  .  .  .        936   56.18           434           492             2             2             0             0             6
+ Jon Wells (ind)  .  .  .  .  .  .  .  .        724   43.46           358           359             0             0             0             0             7
+ WRITE-IN.  .  .  .  .  .  .  .  .  .  .          6     .36             2             4             0             0             0             0             0
+
+
+County Clerk
+(VOTE FOR)  1
+    (WITH 21 OF 21 PRECINCTS COUNTED)
+ Shannon Patterson (Rep).  .  .  .  .  .      5,145   98.68         1,934         3,159             7             4             2             0            39
+ WRITE-IN.  .  .  .  .  .  .  .  .  .  .         69    1.32            29            40             0             0             0             0             0
+
+
+County Treasurer
+(VOTE FOR)  1
+    (WITH 21 OF 21 PRECINCTS COUNTED)
+ Darolyn (Crickett) Maley (Rep)  .  .  .      5,152   98.55         1,937         3,164             7             4             2             0            38
+ WRITE-IN.  .  .  .  .  .  .  .  .  .  .         76    1.45            28            48             0             0             0             0             0
+
+
+County Register of Deeds
+(VOTE FOR)  1
+    (WITH 21 OF 21 PRECINCTS COUNTED)
+ Misty D. Rice (Rep) .  .  .  .  .  .  .      5,155   99.06         1,919         3,184             7             4             2             0            39
+ WRITE-IN.  .  .  .  .  .  .  .  .  .  .         49     .94            19            30             0             0             0             0             0
+
+
+County Attorney
+(VOTE FOR)  1
+    (WITH 21 OF 21 PRECINCTS COUNTED)
+ Brandon Daniel Cameron (Rep) .  .  .  .      5,023   98.68         1,860         3,116             6             3             2             0            36
+ WRITE-IN.  .  .  .  .  .  .  .  .  .  .         67    1.32            30            36             0             0             0             0             1
+
+
+County Sheriff
+(VOTE FOR)  1
+    (WITH 21 OF 21 PRECINCTS COUNTED)
+ Anthony Maness (Rep).  .  .  .  .  .  .      4,910   94.31         1,834         3,032             5             2             2             0            35
+ WRITE-IN.  .  .  .  .  .  .  .  .  .  .        296    5.69           118           176             0             1             0             0             1
+
+
+Township Treasurer Cottage Grove Township
+(VOTE FOR)  1
+    (WITH 1 OF 1 PRECINCTS COUNTED)
+ WRITE-IN.  .  .  .  .  .  .  .  .  .  .         20  100.00             5            15             0             0             0             0             0SUMMARY REPT-GROUP DETAIL                                       General Election                                                    Unofficial Results
+                                                                Allen County, Kansas
+                                                                November 5, 2024
+Run Date:11/18/24 09:57 AM                                                                                                          Report EL45A     Page 003
+
+                                       TOTAL VOTES     %        AGROUP-01     EDS           HDCT          WED           THS           FRI           PROV
+
+Township Treasurer Deer Creek Township
+(VOTE FOR)  1
+    (WITH 1 OF 1 PRECINCTS COUNTED)
+ WRITE-IN.  .  .  .  .  .  .  .  .  .  .         13  100.00             5             8             0             0             0             0             0
+
+
+Township Treasurer Elsmore Township
+(VOTE FOR)  1
+    (WITH 2 OF 2 PRECINCTS COUNTED)
+ Sandy Murrow (Rep)  .  .  .  .  .  .  .        165   97.63            57           104             0             0             0             0             4
+ WRITE-IN.  .  .  .  .  .  .  .  .  .  .          4    2.37             1             3             0             0             0             0             0
+
+
+Township Treasurer Geneva Township
+(VOTE FOR)  1
+    (WITH 1 OF 1 PRECINCTS COUNTED)
+ WRITE-IN.  .  .  .  .  .  .  .  .  .  .         23  100.00            10            13             0             0             0             0             0
+
+
+Township Treasurer Humboldt Township
+(VOTE FOR)  1
+    (WITH 1 OF 1 PRECINCTS COUNTED)
+ Terry Broyles (Rep) .  .  .  .  .  .  .        157   99.37            41           115             0             0             0             0             1
+ WRITE-IN.  .  .  .  .  .  .  .  .  .  .          1     .63             1             0             0             0             0             0             0
+
+
+Township Treasurer Iola Township
+(VOTE FOR)  1
+    (WITH 2 OF 2 PRECINCTS COUNTED)
+ Sari L. Hunt (Rep)  .  .  .  .  .  .  .        402   99.75           200           200             0             0             0             0             2
+ WRITE-IN.  .  .  .  .  .  .  .  .  .  .          1     .25             1             0             0             0             0             0             0
+
+
+Township Treasurer Logan Township
+(VOTE FOR)  1
+    (WITH 1 OF 1 PRECINCTS COUNTED)
+ Kellee Woods (Rep)  .  .  .  .  .  .  .        109  100.00            36            72             1             0             0             0             0
+ WRITE-IN.  .  .  .  .  .  .  .  .  .  .          0                     0             0             0             0             0             0             0
+
+
+Township Treasurer Marmaton Township
+(VOTE FOR)  1
+    (WITH 1 OF 1 PRECINCTS COUNTED)
+ Jamie J. Stodgell (Rep).  .  .  .  .  .        346   98.86            78           267             0             0             0             0             1
+ WRITE-IN.  .  .  .  .  .  .  .  .  .  .          4    1.14             2             2             0             0             0             0             0SUMMARY REPT-GROUP DETAIL                                       General Election                                                    Unofficial Results
+                                                                Allen County, Kansas
+                                                                November 5, 2024
+Run Date:11/18/24 09:57 AM                                                                                                          Report EL45A     Page 004
+
+                                       TOTAL VOTES     %        AGROUP-01     EDS           HDCT          WED           THS           FRI           PROV
+
+Township Treasurer Osage Township
+(VOTE FOR)  1
+    (WITH 1 OF 1 PRECINCTS COUNTED)
+ Teresa Smith (Rep)  .  .  .  .  .  .  .        143  100.00            27           115             0             0             0             0             1
+ WRITE-IN.  .  .  .  .  .  .  .  .  .  .          0                     0             0             0             0             0             0             0
+
+
+Township Treasurer Salem Township
+(VOTE FOR)  1
+    (WITH 1 OF 1 PRECINCTS COUNTED)
+ John R. Bilby (Rep) .  .  .  .  .  .  .        143   99.31            33           110             0             0             0             0             0
+ WRITE-IN.  .  .  .  .  .  .  .  .  .  .          1     .69             0             1             0             0             0             0             0
+
+
+Township Trustee Cottage Grove Township
+(VOTE FOR)  1
+    (WITH 1 OF 1 PRECINCTS COUNTED)
+ Joyce Allen (Rep).  .  .  .  .  .  .  .        105   99.06            28            77             0             0             0             0             0
+ WRITE-IN.  .  .  .  .  .  .  .  .  .  .          1     .94             0             1             0             0             0             0             0
+
+
+Township Trustee Deer Creek Township
+(VOTE FOR)  1
+    (WITH 1 OF 1 PRECINCTS COUNTED)
+ WRITE-IN.  .  .  .  .  .  .  .  .  .  .         10  100.00             2             8             0             0             0             0             0
+
+
+Township Trustee Elsmore Township
+(VOTE FOR)  1
+    (WITH 2 OF 2 PRECINCTS COUNTED)
+ WRITE-IN.  .  .  .  .  .  .  .  .  .  .         33  100.00            16            17             0             0             0             0             0
+
+
+Township Trustee Geneva Township
+(VOTE FOR)  1
+    (WITH 1 OF 1 PRECINCTS COUNTED)
+ WRITE-IN.  .  .  .  .  .  .  .  .  .  .         22  100.00            10            12             0             0             0             0             0
+
+
+Township Trustee Humboldt Township
+(VOTE FOR)  1
+    (WITH 1 OF 1 PRECINCTS COUNTED)
+ WRITE-IN.  .  .  .  .  .  .  .  .  .  .         40  100.00            14            26             0             0             0             0             0
+
+
+Township Trustee Iola Township
+(VOTE FOR)  1
+    (WITH 2 OF 2 PRECINCTS COUNTED)
+ WRITE-IN.  .  .  .  .  .  .  .  .  .  .         88  100.00            42            46             0             0             0             0             0SUMMARY REPT-GROUP DETAIL                                       General Election                                                    Unofficial Results
+                                                                Allen County, Kansas
+                                                                November 5, 2024
+Run Date:11/18/24 09:57 AM                                                                                                          Report EL45A     Page 005
+
+                                       TOTAL VOTES     %        AGROUP-01     EDS           HDCT          WED           THS           FRI           PROV
+
+Township Trustee Logan Township
+(VOTE FOR)  1
+    (WITH 1 OF 1 PRECINCTS COUNTED)
+ WRITE-IN.  .  .  .  .  .  .  .  .  .  .         24  100.00             9            14             1             0             0             0             0
+
+
+Township Trustee Marmaton Township
+(VOTE FOR)  1
+    (WITH 1 OF 1 PRECINCTS COUNTED)
+ Michael E. Stodgell (Rep) .  .  .  .  .        338   98.83            77           260             0             0             0             0             1
+ WRITE-IN.  .  .  .  .  .  .  .  .  .  .          4    1.17             2             2             0             0             0             0             0
+
+
+Township Trustee Osage Township
+(VOTE FOR)  1
+    (WITH 1 OF 1 PRECINCTS COUNTED)
+ Regena Lance (Rep)  .  .  .  .  .  .  .        136   99.27            27           109             0             0             0             0             0
+ WRITE-IN.  .  .  .  .  .  .  .  .  .  .          1     .73             0             1             0             0             0             0             0
+
+
+Township Trustee Salem Township
+(VOTE FOR)  1
+    (WITH 1 OF 1 PRECINCTS COUNTED)
+ WRITE-IN.  .  .  .  .  .  .  .  .  .  .         27  100.00             2            25             0             0             0             0             0
+
+
+Court of Appeals - Sarah E. Warner
+(VOTE FOR)  1
+    (WITH 21 OF 21 PRECINCTS COUNTED)
+ Yes  .  .  .  .  .  .  .  .  .  .  .  .      3,809   73.88         1,417         2,355             5             4             2             0            26
+ No.  .  .  .  .  .  .  .  .  .  .  .  .      1,347   26.12           499           842             1             0             0             0             5
+
+
+Court of Appeals - David E. Bruns
+(VOTE FOR)  1
+    (WITH 21 OF 21 PRECINCTS COUNTED)
+ Yes  .  .  .  .  .  .  .  .  .  .  .  .      3,756   73.45         1,381         2,343             4             3             2             0            23
+ No.  .  .  .  .  .  .  .  .  .  .  .  .      1,358   26.55           513           835             2             0             0             0             8
+
+
+Court of Appeals - G. Gordon Atcheson
+(VOTE FOR)  1
+    (WITH 21 OF 21 PRECINCTS COUNTED)
+ Yes  .  .  .  .  .  .  .  .  .  .  .  .      3,564   70.06         1,328         2,202             5             3             2             0            24
+ No.  .  .  .  .  .  .  .  .  .  .  .  .      1,523   29.94           559           956             1             0             0             0             7SUMMARY REPT-GROUP DETAIL                                       General Election                                                    Unofficial Results
+                                                                Allen County, Kansas
+                                                                November 5, 2024
+Run Date:11/18/24 09:57 AM                                                                                                          Report EL45A     Page 006
+
+                                       TOTAL VOTES     %        AGROUP-01     EDS           HDCT          WED           THS           FRI           PROV
+
+Court of Appeals - Karen Arnold-Burger
+(VOTE FOR)  1
+    (WITH 21 OF 21 PRECINCTS COUNTED)
+ Yes  .  .  .  .  .  .  .  .  .  .  .  .      3,578   70.46         1,328         2,214             5             4             2             0            25
+ No.  .  .  .  .  .  .  .  .  .  .  .  .      1,500   29.54           552           941             1             0             0             0             6
+
+
+Court of Appeals - Rachel L. Pickering
+(VOTE FOR)  1
+    (WITH 21 OF 21 PRECINCTS COUNTED)
+ Yes  .  .  .  .  .  .  .  .  .  .  .  .      3,609   70.90         1,350         2,224             5             3             2             0            25
+ No.  .  .  .  .  .  .  .  .  .  .  .  .      1,481   29.10           540           933             1             1             0             0             6
+
+
+Court of Appeals - Angela D. Coble
+(VOTE FOR)  1
+    (WITH 21 OF 21 PRECINCTS COUNTED)
+ Yes  .  .  .  .  .  .  .  .  .  .  .  .      3,661   72.18         1,357         2,269             5             3             2             0            25
+ No.  .  .  .  .  .  .  .  .  .  .  .  .      1,411   27.82           521           883             1             1             0             0             5
+
+
+Court of Appeals - Kathryn Gardner
+(VOTE FOR)  1
+    (WITH 21 OF 21 PRECINCTS COUNTED)
+ Yes  .  .  .  .  .  .  .  .  .  .  .  .      3,751   73.88         1,384         2,333             4             3             2             0            25
+ No.  .  .  .  .  .  .  .  .  .  .  .  .      1,326   26.12           496           821             2             1             0             0             6
+
+
+District Court - Daniel Dale Creitz
+(VOTE FOR)  1
+    (WITH 21 OF 21 PRECINCTS COUNTED)
+ Yes  .  .  .  .  .  .  .  .  .  .  .  .      4,186   79.04         1,641         2,504             5             4             3             0            29
+ No.  .  .  .  .  .  .  .  .  .  .  .  .      1,110   20.96           363           741             1             0             0             0             5
+
+
+District Court - Daryl D. Ahlquist
+(VOTE FOR)  1
+    (WITH 21 OF 21 PRECINCTS COUNTED)
+ Yes  .  .  .  .  .  .  .  .  .  .  .  .      3,904   76.07         1,474         2,394             5             4             2             0            25
+ No.  .  .  .  .  .  .  .  .  .  .  .  .      1,228   23.93           445           775             1             0             0             0             7
+
+
+District Court - Tod M. Davis
+(VOTE FOR)  1
+    (WITH 21 OF 21 PRECINCTS COUNTED)
+ Yes  .  .  .  .  .  .  .  .  .  .  .  .      4,058   78.63         1,540         2,479             5             4             2             0            28
+ No.  .  .  .  .  .  .  .  .  .  .  .  .      1,103   21.37           393           705             1             0             0             0             4SUMMARY REPT-GROUP DETAIL                                       General Election                                                    Unofficial Results
+                                                                Allen County, Kansas
+                                                                November 5, 2024
+Run Date:11/18/24 09:57 AM                                                                                                          Report EL45A     Page 007
+
+                                       TOTAL VOTES     %        AGROUP-01     EDS           HDCT          WED           THS           FRI           PROV
+
+District Magistrate - Charles H. Apt III
+(VOTE FOR)  1
+    (WITH 21 OF 21 PRECINCTS COUNTED)
+ Yes  .  .  .  .  .  .  .  .  .  .  .  .      3,945   75.04         1,519         2,390             6             4             1             0            25
+ No.  .  .  .  .  .  .  .  .  .  .  .  .      1,312   24.96           458           844             0             0             1             0             9
+
+
+County Sales Tax
+(VOTE FOR)  1
+    (WITH 21 OF 21 PRECINCTS COUNTED)
+ Yes  .  .  .  .  .  .  .  .  .  .  .  .      2,638   47.67         1,018         1,595             5             3             1             0            16
+ No.  .  .  .  .  .  .  .  .  .  .  .  .      2,896   52.33         1,085         1,785             2             1             3             0            20
+
+
+City of LaHarpe Question LaHarpe City
+(VOTE FOR)  1
+    (WITH 1 OF 1 PRECINCTS COUNTED)
+ Yes  .  .  .  .  .  .  .  .  .  .  .  .         51   29.65            17            33             0             0             0             0             1
+ No.  .  .  .  .  .  .  .  .  .  .  .  .        121   70.35            45            73             0             0             0             0             3
+
+
+Council Member Moran City
+(VOTE FOR)  3
+    (WITH 1 OF 1 PRECINCTS COUNTED)
+ Warren Johnson.  .  .  .  .  .  .  .  .        165   46.09            33           132             0             0             0             0             0
+ Kris Smth  .  .  .  .  .  .  .  .  .  .        146   40.78            29           117             0             0             0             0             0
+ WRITE-IN.  .  .  .  .  .  .  .  .  .  .         47   13.13             5            42             0             0             0             0             0
+E
